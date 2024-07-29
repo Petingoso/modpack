@@ -1,5 +1,17 @@
 # Changelog
 
+## [2.1.4](https://github.com/luciobortoletto/enmcv/compare/fabric-v2.1.3...fabric-v2.1.4) (2024-07-29)
+
+
+### ☀ Modpack Changes
+
+* **fabric/Loading Screen Tips:** add Loading Screen Tips ([5882e90](https://github.com/luciobortoletto/enmcv/commit/5882e906e5a4f7b8d23c85faeea3fb8890a742c6))
+
+
+### ⚘ Modpack Updates
+
+* **fabric:** updated mods ([3588fed](https://github.com/luciobortoletto/enmcv/commit/3588fedfda0278c4e617452157ac6022ac9fa85d))
+
 ## 2.1.3 (2024-07-29)
 
 
