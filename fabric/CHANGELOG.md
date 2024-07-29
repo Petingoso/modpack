@@ -1,5 +1,18 @@
 # Changelog
 
+## [2.2.0](https://github.com/luciobortoletto/enmcv/compare/fabric-v2.1.4...fabric-v2.2.0) (2024-07-29)
+
+
+### ★ Features
+
+* **fabric:** modify options.txt ([c62aace](https://github.com/luciobortoletto/enmcv/commit/c62aace68d6705b77ba59c268c113beefc25e47d))
+
+
+### ☀ Modpack Changes
+
+* **fabric/Blockstates +:** remove Blockstates + ([d4beac5](https://github.com/luciobortoletto/enmcv/commit/d4beac51c1f65bb8af0e4b530e20da097e872635))
+* **fabric/Particles +:** remove Particles + ([c12bf11](https://github.com/luciobortoletto/enmcv/commit/c12bf11e6ef92cbf07315b38772ece49fff5aff4))
+
 ## [2.1.4](https://github.com/luciobortoletto/enmcv/compare/fabric-v2.1.3...fabric-v2.1.4) (2024-07-29)
 
 
