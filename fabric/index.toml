@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "CHANGELOG.md"
+hash = "997011a5a8197ba607fb76d8e3a2bfcc767021df5161b598a8720112db078cf1"
+
+[[files]]
 file = "LICENSE"
 hash = "92da26b217ada5aff5c7ce42629bfb0695554eb17b673b2f567e097c9256114e"
 
@@ -283,6 +287,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "019e6f258127d947cf0b43227c198365b107e35d4e16e29ee8388986aaf62d77"
+metafile = true
+
+[[files]]
+file = "mods/loadingscreentips.pw.toml"
+hash = "e7e5e59b48251b0fe52e032e2ae2c94d9fcd2437dffdc660d8ac654368524199"
 metafile = true
 
 [[files]]

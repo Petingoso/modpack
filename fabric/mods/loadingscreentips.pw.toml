@@ -1,0 +1,13 @@
+name = "Loading Screen Tips"
+filename = "loadingscreentips-1.3.5.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/9iE55lp5/versions/dBokOuAg/loadingscreentips-1.3.5.jar"
+hash-format = "sha1"
+hash = "9d0f05e323e97c5d0b3656026d6cbc3fa2b17e6d"
+
+[update]
+[update.modrinth]
+mod-id = "9iE55lp5"
+version = "dBokOuAg"
