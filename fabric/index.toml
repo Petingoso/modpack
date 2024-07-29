@@ -564,11 +564,6 @@ hash = "805d5e1a7227103b4407f2ed6c30dc046a0fac76d282abd576459209375bc4e4"
 metafile = true
 
 [[files]]
-file = "resourcepacks/particles+.pw.toml"
-hash = "c0f31d70376cb6862e4fa0c85cb7b90c552e9dd731667745091504ab6e80f3ec"
-metafile = true
-
-[[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
 hash = "585963a78adbd28f86e62de2151abc442b9a003450cd7959068c1482008feee6"
 metafile = true
