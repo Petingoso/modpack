@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE"
+hash = "92da26b217ada5aff5c7ce42629bfb0695554eb17b673b2f567e097c9256114e"
+
+[[files]]
 file = "mods/advancements-reloaded.pw.toml"
 hash = "92e4bff606befa1dc14ee5334f2530ff9af709df3547937be906583150382e30"
 metafile = true
