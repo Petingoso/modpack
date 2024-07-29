@@ -447,3 +447,53 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "eefc9633d420e618162273413411aeda11ed8c5d74e616a01d7170b810d4b7a1"
+
+[[files]]
+file = "resourcepacks/better-leaves.pw.toml"
+hash = "645e9835a3868607a3d0e8645242b87ac7b6d39ff02248df9ae3e3d8e770e696"
+metafile = true
+
+[[files]]
+file = "resourcepacks/blockstates.pw.toml"
+hash = "1e7d757f4aba280ce682c98ced8171a48e24be6d2df3066abe1bffb88b384127"
+metafile = true
+
+[[files]]
+file = "resourcepacks/chat-reporting-helper.pw.toml"
+hash = "a1c72f9ca36f2bd3f811cef6b4eb3cdd1d07e5c920bced7140ae237eba1c7ccd"
+metafile = true
+
+[[files]]
+file = "resourcepacks/essentialui.pw.toml"
+hash = "03f300c66f8c3b94a258d4e75673c157fca6248d071b4b11953d0e6bdb8cbef6"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "256b67c869770482657d4dd31124bf705c780c5c798206af522bcd5392c7ded9"
+metafile = true
+
+[[files]]
+file = "resourcepacks/icons.pw.toml"
+hash = "eeb0a666627b9a76a107b7d6b14e41821a4fa61422eb959b79a8e786801b8fe9"
+metafile = true
+
+[[files]]
+file = "resourcepacks/light-ores!.pw.toml"
+hash = "805d5e1a7227103b4407f2ed6c30dc046a0fac76d282abd576459209375bc4e4"
+metafile = true
+
+[[files]]
+file = "resourcepacks/particles+.pw.toml"
+hash = "c0f31d70376cb6862e4fa0c85cb7b90c552e9dd731667745091504ab6e80f3ec"
+metafile = true
+
+[[files]]
+file = "resourcepacks/translations-for-sodium.pw.toml"
+hash = "585963a78adbd28f86e62de2151abc442b9a003450cd7959068c1482008feee6"
+metafile = true
+
+[[files]]
+file = "resourcepacks/tras-fresh-player.pw.toml"
+hash = "26a9280a093721c7260962fb160fa18a345b313d99b0a7acf1f7ab9d2c349a45"
+metafile = true

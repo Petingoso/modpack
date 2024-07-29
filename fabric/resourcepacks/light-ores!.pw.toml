@@ -1,0 +1,13 @@
+name = "Light Ores! Vanilla Edition"
+filename = "Light Ores! Vanilla 1.20.6.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/PCXwa9AH/versions/KCQLXaKR/Light%20Ores%21%20Vanilla%201.20.6.zip"
+hash-format = "sha1"
+hash = "362da7522734f94fa1d69ad45919abf04d90584c"
+
+[update]
+[update.modrinth]
+mod-id = "PCXwa9AH"
+version = "KCQLXaKR"
