@@ -1,0 +1,13 @@
+name = "Charmonium"
+filename = "charmonium-fabric-1.21-7.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/bpii4Xsa/versions/Rx4IPbpz/charmonium-fabric-1.21-7.0.0.jar"
+hash-format = "sha1"
+hash = "04a80742c6af813dd457ebc37fb16353270a07fa"
+
+[update]
+[update.modrinth]
+mod-id = "bpii4Xsa"
+version = "Rx4IPbpz"

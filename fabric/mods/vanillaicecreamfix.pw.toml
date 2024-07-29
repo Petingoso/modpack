@@ -1,0 +1,13 @@
+name = "VanillaIcecreamFix"
+filename = "VanillaIcecreamFix-1.2.2-beta.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5HUqEye3/versions/yRjmOiTf/VanillaIcecreamFix-1.2.2-beta.jar"
+hash-format = "sha1"
+hash = "eb3f1597c48809cbc6adc5ae7c25f22f12ec5bce"
+
+[update]
+[update.modrinth]
+mod-id = "5HUqEye3"
+version = "yRjmOiTf"

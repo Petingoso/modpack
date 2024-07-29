@@ -1,0 +1,8 @@
+name = "Particular ✨"
+filename = "particular-1.1.1.jar"
+side = "client"
+
+[download]
+url = "https://github.com/luciobortoletto/particular-1.21/releases/download/1.1.1-1.21-unofficial/particular-1.1.1.jar"
+hash-format = "sha1"
+hash = "96fbfa8c2c7072f5906c1efba47acc312261aadc"
