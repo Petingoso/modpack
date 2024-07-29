@@ -5,6 +5,82 @@ file = "LICENSE"
 hash = "92da26b217ada5aff5c7ce42629bfb0695554eb17b673b2f567e097c9256114e"
 
 [[files]]
+file = "config/MouseTweaks.cfg"
+hash = "438de2af36bf905993252e5015ad3b2f907473f0ad2722d6c79185728bb9b20b"
+
+[[files]]
+file = "config/advancementinforeloaded.json5"
+hash = "47414d29763a9ed7074412a656c72e4b86d5f3ec964a09c63e64736998a2b99f"
+
+[[files]]
+file = "config/betterf3.json"
+hash = "57412377c352fbaf774771d2228ba56bd21fcd8ed3336009d319bc716aeb9062"
+
+[[files]]
+file = "config/dynamic_fps.json"
+hash = "fb113ce5b5a4d5019d16b378b38eae5869723208ff2f78a85bd75bf688f23eb4"
+
+[[files]]
+file = "config/dynamiccrosshair.json5"
+hash = "6145694267318e252e0fedeb7b4e2716ad2982cdb9edbc82a62c65a10136dde5"
+
+[[files]]
+file = "config/enhanced_bes.properties"
+hash = "8f7ebe7903b8c9877404e879df08b060d3fe0d1a18a20662bab4f9d1325520ba"
+
+[[files]]
+file = "config/entity_model_features.json"
+hash = "c6b4c9aabb8615f8ffbf4a624f26c7caaa1bf485edc082e28f08cab7409b4c42"
+
+[[files]]
+file = "config/entity_texture_features.json"
+hash = "64922e075cb363c9aa120710752170c7ef7d792f02c35227da60f8fe81029b4b"
+
+[[files]]
+file = "config/fabric_loader_dependencies.json"
+hash = "8458d98d7e16235a07bdefd1960435d93d8d192972276cfe7d51501d1d4b9ef3"
+
+[[files]]
+file = "config/modernfix-mixins.properties"
+hash = "bc69642214ce229a9e9b320b65638eeca5116afc8320bc8280268779f92cf02c"
+
+[[files]]
+file = "config/moreculling.toml"
+hash = "62c73e27d434b47e4be3849da28f989931f7aaad7d7dfa689e14584c4ef8edfd"
+
+[[files]]
+file = "config/notenoughanimations.json"
+hash = "dad4a819a8634bac16c49da60014c26c621ac1ab3075825492bad0232edbd4e7"
+
+[[files]]
+file = "config/puzzle.json"
+hash = "c43ad2ec3f4b56c14f8f8e96a8eafab54531de131b5d7d72c09e9ed41feaff3c"
+
+[[files]]
+file = "config/ryoamiclights.toml"
+hash = "837d9e2af107d964ce510ecd20f541b1c67a4256510754bd5212d9f6b9f2c392"
+
+[[files]]
+file = "config/sodium-extra-options.json"
+hash = "f9cdcc4d7556c1e48c4f113b38e30263400a637a24b592c2bc26e364d77f6ae5"
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "d6df6b4dfedd71dc33345cb34eba48bd4cea168f1c325938f071481b48b8b509"
+
+[[files]]
+file = "config/sound_physics_remastered/soundphysics.properties"
+hash = "a62dc3bffb9ce00d5b0b19a7742bedf2701937694ee3544081ba6a12170cf0f7"
+
+[[files]]
+file = "config/vanillaicereamfix.json5"
+hash = "d1537d49c8e614fcb845e6016e388220b9853c66b6ce16aa2013149a3fd1e780"
+
+[[files]]
+file = "essential/config.toml"
+hash = "de07b5affa7c336a76d480061579b06732882b86c27a68ff4b2010f0668b4212"
+
+[[files]]
 file = "mods/advancements-reloaded.pw.toml"
 hash = "92e4bff606befa1dc14ee5334f2530ff9af709df3547937be906583150382e30"
 metafile = true

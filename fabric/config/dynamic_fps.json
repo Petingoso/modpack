@@ -1,0 +1,10 @@
+{
+  "uncap_menu_frame_rate": true,
+  "states": {
+    "hovered": {
+      "frame_rate_target": -1,
+      "enable_vsync": true,
+      "run_garbage_collector": true
+    }
+  }
+}
