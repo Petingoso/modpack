@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "997011a5a8197ba607fb76d8e3a2bfcc767021df5161b598a8720112db078cf1"
+hash = "40f34413eb6fa226c9339c6d847ab21dc035479c5283fc94e955cbe75024e005"
 
 [[files]]
 file = "LICENSE"
@@ -536,11 +536,6 @@ hash = "eefc9633d420e618162273413411aeda11ed8c5d74e616a01d7170b810d4b7a1"
 [[files]]
 file = "resourcepacks/better-leaves.pw.toml"
 hash = "645e9835a3868607a3d0e8645242b87ac7b6d39ff02248df9ae3e3d8e770e696"
-metafile = true
-
-[[files]]
-file = "resourcepacks/blockstates.pw.toml"
-hash = "1e7d757f4aba280ce682c98ced8171a48e24be6d2df3066abe1bffb88b384127"
 metafile = true
 
 [[files]]
