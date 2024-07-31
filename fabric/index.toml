@@ -86,7 +86,7 @@ hash = "de07b5affa7c336a76d480061579b06732882b86c27a68ff4b2010f0668b4212"
 
 [[files]]
 file = "mods/advancements-reloaded.pw.toml"
-hash = "92e4bff606befa1dc14ee5334f2530ff9af709df3547937be906583150382e30"
+hash = "dd070c324d03f2942546105c622ee83cdb4f7b78379cc49bf6e9185400636d3d"
 metafile = true
 
 [[files]]
@@ -436,7 +436,7 @@ metafile = true
 
 [[files]]
 file = "mods/rrls.pw.toml"
-hash = "6d7d1e314add75dbdae15536501766f27fbcfab1b1546fe131aa90db5e3795b6"
+hash = "5ec29149570fdae5f3a94c1a2d9a9798fa289b32043504a5d50540ed39b81d17"
 metafile = true
 
 [[files]]
