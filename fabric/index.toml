@@ -86,12 +86,12 @@ hash = "de07b5affa7c336a76d480061579b06732882b86c27a68ff4b2010f0668b4212"
 
 [[files]]
 file = "mods/advancements-reloaded.pw.toml"
-hash = "dd070c324d03f2942546105c622ee83cdb4f7b78379cc49bf6e9185400636d3d"
+hash = "f139b6204cebbf4553ed4abb0c04ab7081d89fecdb9fc3a1f9db5674202b37f2"
 metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "420663a6a26a3d60ca7bd07f942ba7ab3379daaf26772181a040e2caf97ff6e7"
+hash = "af482cdaf7c5d9d5481e7cd789d98ebc17f47e4565a28af6c6365aef896d1404"
 metafile = true
 
 [[files]]
@@ -131,7 +131,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "e5d13ac5dd882ae1fc805f9ace675ed260f1c311adb0a961148c9feece5cd6c6"
+hash = "860f349f22b4ae5c8765b78a961702aeaf70f5630110422f122666b3bead2437"
 metafile = true
 
 [[files]]
@@ -206,12 +206,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "dfe5807e1bef326fea19cfbdadb712a6c19d6cb594698ac8c61b1439f9e2fa98"
+hash = "9eb8a17e98af61f820864ce9fbe246cee75a3b86f51df8a9b92644829ea2faf8"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "14e87ff6253d2bd02697e46b4a9b5060465d72b71663def5236f829e30bac6d6"
+hash = "a909422ca28880c8aa967a66ca3b89fba223a9cfc662d98592c234d22361cf33"
 metafile = true
 
 [[files]]
@@ -291,7 +291,7 @@ metafile = true
 
 [[files]]
 file = "mods/loadingscreentips.pw.toml"
-hash = "e7e5e59b48251b0fe52e032e2ae2c94d9fcd2437dffdc660d8ac654368524199"
+hash = "d13281e2ba8c25dff9f47275b2e5a6307cbd72a31b8425692a52268d52311a0b"
 metafile = true
 
 [[files]]
@@ -391,7 +391,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "b4344f6b63b8a3c5740b67e428f89988c50dc22a5476fa9a97bcdb2354e7d7ad"
+hash = "af12f3515d42a5eb423b00da8e5eab34df65141a572defa165097f7778f4ce84"
 metafile = true
 
 [[files]]
@@ -471,7 +471,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "afc06fed4e996bf3ad5cf2e8248d1cfc6650d8cae19fc8c6745e41c085c8eb2d"
+hash = "0ac4e89cf8861f7831ac6e9cb3980ca553ed085593ef04e3c7bd7db99174d891"
 metafile = true
 
 [[files]]
@@ -496,7 +496,7 @@ metafile = true
 
 [[files]]
 file = "mods/tcdcommons.pw.toml"
-hash = "9ce0d6322b997a5ab5dd2bd66f9491e0baf714b35f42d67adfecc75b9620af08"
+hash = "a07734892496719d75a5ad73a8d53950469ffa2348df1aac07a75a6c304271a6"
 metafile = true
 
 [[files]]
@@ -506,7 +506,7 @@ metafile = true
 
 [[files]]
 file = "mods/viafabric.pw.toml"
-hash = "504dd45d7b7d8fbd3592be16d05ea8f99fee20da206200aea201ca74bb6bef1a"
+hash = "b0103065614e2bec2a77bf54c440a7b56aa3b7895a761a0dc65298728ba4e2a7"
 metafile = true
 
 [[files]]
@@ -540,7 +540,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
-hash = "a1c72f9ca36f2bd3f811cef6b4eb3cdd1d07e5c920bced7140ae237eba1c7ccd"
+hash = "da5dbbe3a850befd67dc2033be83d9aa377adea607d1c4db48340ed6f87bbb8a"
 metafile = true
 
 [[files]]
@@ -565,7 +565,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "585963a78adbd28f86e62de2151abc442b9a003450cd7959068c1482008feee6"
+hash = "8f616b0c11b3938edb5c7cac26a283c8f009417fb051278b41db2294a66928d2"
 metafile = true
 
 [[files]]
