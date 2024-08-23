@@ -3,6 +3,11 @@ filename = "raised-fabric-1.21-4.0.0.jar"
 side = "client"
 
 [download]
-url = "https://github.com/luciobortoletto/Raised-1.21/releases/download/Fabric-1.21-3.1.3-unofficial.3/raised-fabric-1.21-4.0.0.jar"
+url = "https://cdn.modrinth.com/data/nCQRBEiR/versions/v1zAblQ8/raised-fabric-1.21-4.0.0.jar"
 hash-format = "sha1"
-hash = "dd31dfeca76040cf8f8e93c447b0648faad51dbf"
+hash = "09f7ed3060e67accd8ebb16b61697a0e207c7d94"
+
+[update]
+[update.modrinth]
+mod-id = "nCQRBEiR"
+version = "v1zAblQ8"
