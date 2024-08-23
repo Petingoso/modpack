@@ -116,7 +116,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "a4fd2e20e1a2444c6892e9f14d94b1b8802a8a4954f9e3e49045aac9b9074f23"
+hash = "7df3b65f1baa251d8fd0f5025a60170da09827989d716bf61d788efca32bc0b2"
 metafile = true
 
 [[files]]
@@ -126,7 +126,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "281e2d541c2ab54e3bc6f0e5973205a3cf12074afeea89721a61b72192fe0d2b"
+hash = "860f349f22b4ae5c8765b78a961702aeaf70f5630110422f122666b3bead2437"
 metafile = true
 
 [[files]]
@@ -161,7 +161,7 @@ metafile = true
 
 [[files]]
 file = "mods/detail-armor-bar.pw.toml"
-hash = "22815b8141702d06dfe73f9e54c569d6591dbce3a0674d56db73e4a41c209518"
+hash = "a68ce5ecf4c0f59349263d29926271d4b591467e9e5edaf4e286c5c4e6e58eca"
 metafile = true
 
 [[files]]
@@ -206,7 +206,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "a8800671ba62afc0a0a2bcbf4330ba7a5906f5fba7ec88b6d5afac2572ecd617"
+hash = "324b9816c2616ae8ccfacb2cf93c2ed0c1ea2218efad38ab02cdaa6f75c1db1b"
 metafile = true
 
 [[files]]
@@ -266,7 +266,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "a6619aede80ea44ae5cc7fa36eeb0eeb08adbf9229e71a85f845921780d69153"
+hash = "93b1b62c7cbbcbcd459fb83bdf9c7aff3fe71c475e7d922bfcb85c45f66fe2ed"
 metafile = true
 
 [[files]]
@@ -281,7 +281,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "f004eac1859218b35a865698a68000b21806709f02b54b2a2ef55ff04a793328"
+hash = "b3b33c53f8356928f86223f26eaebd7a266d610f8628e5077cda196192b0b7e4"
 metafile = true
 
 [[files]]
@@ -296,7 +296,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "ebbaf07d4e04f172081d5f4bec47837ae1008c5a6dbedc32f7ba471dd3d004cd"
+hash = "f01e3bf3ac19d148390509cc99c2df982439a619701a2a392101a6f4d3c250db"
 metafile = true
 
 [[files]]
@@ -416,7 +416,7 @@ metafile = true
 
 [[files]]
 file = "mods/resolutioncontrol3.pw.toml"
-hash = "91f0436322f816c95ce297e07f0738fd3e7692194b66b531479127bb4c66d035"
+hash = "dc90005d1e5b3bf38102596d8c7cb4708738f5b3d67c43383d9fe559076d7a79"
 metafile = true
 
 [[files]]
@@ -506,7 +506,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "15a5753d12312ba41d14e1f6549bac5a02fa666a7ca1f39347c7c21faecf7fe4"
+hash = "6448dd2b187041bb7b1da3998c10b43c103e47a125b06230d302d9909be3701c"
 metafile = true
 
 [[files]]
@@ -555,7 +555,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "f8e865c4d22ea5044d9601fda35da6858194b49a5619f7982aab2e2831f0b8f0"
+hash = "1d9401360096b6bd308a7b7b5ee969e5bf773ab7b02e0990e0d5592e458b7f08"
 metafile = true
 
 [[files]]
