@@ -95,11 +95,6 @@ hash = "af482cdaf7c5d9d5481e7cd789d98ebc17f47e4565a28af6c6365aef896d1404"
 metafile = true
 
 [[files]]
-file = "mods/architectury-api.pw.toml"
-hash = "417b7af3c7cb5f2681960349d3fa118733cbce5d260fadddd792abb24e52fbdc"
-metafile = true
-
-[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "79ab4fc83d9cd5db3c935a4374b0328d0b1eaa056c5315f93551e914ab4fdcae"
 metafile = true
@@ -417,11 +412,6 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "c497424b603b0b9fc190427fd7aa0985d23a74f4cba6c554e14f7dbd29385df2"
-metafile = true
-
-[[files]]
-file = "mods/rei.pw.toml"
-hash = "c35a2d6c48b65f253d5a5abee0aad1926c7a0701aa925c9793212acd3730b748"
 metafile = true
 
 [[files]]
