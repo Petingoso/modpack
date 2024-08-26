@@ -105,9 +105,10 @@
 				"chunk_coords": true,
 				"player_coords": true,
 				"block_coords": true,
+				"absolute_velocity": true,
 				"velocity": true,
 				"chunk_relative_coords": true,
-				"abs_velocity": true
+				"horizontal_velocity": true
 			},
 			"enabled": true
 		}, 
@@ -195,14 +196,6 @@
 				"fps_tps_new": true,
 				"ping": true,
 				"pie_graph_new": true
-			},
-			"enabled": true
-		}, 
-		{
-			"empty_lines": 1,
-			"name": "empty",
-			"lines": {
-				"nothing": true
 			},
 			"enabled": true
 		}

@@ -1,4 +1,3 @@
-
 [light_sources]
 	water_sensitive_check = true
 	block_entities = true
@@ -6,58 +5,6 @@
 	self = true
 	tnt = "fancy"
 	creeper = "fancy"
-
-	[light_sources.settings]
-
-		[light_sources.settings.block_entities]
-
-			[light_sources.settings.block_entities.minecraft]
-				bed = true
-				calibrated_sculk_sensor = true
-				furnace = true
-				dropper = true
-				daylight_detector = true
-				sign = true
-				jukebox = true
-				brewing_stand = true
-				sculk_sensor = true
-				hanging_sign = true
-				brushable_block = true
-				conduit = true
-				beehive = true
-				dispenser = true
-				smoker = true
-				lectern = true
-				crafter = true
-				skull = true
-				trial_spawner = true
-				campfire = true
-				vault = true
-				barrel = true
-				chest = true
-				piston = true
-				sculk_shrieker = true
-				end_portal = true
-				shulker_box = true
-				enchanting_table = true
-				banner = true
-				structure_block = true
-				sculk_catalyst = true
-				ender_chest = true
-				bell = true
-				end_gateway = true
-				comparator = true
-				beacon = true
-				command_block = true
-				jigsaw = true
-				hopper = true
-				mob_spawner = true
-				chiseled_bookshelf = true
-				trapped_chest = true
-				decorated_pot = true
-				blast_furnace = true
-
-		[light_sources.settings.entities]
 
 			[light_sources.settings.entities.minecraft]
 				zombie_horse = true
@@ -191,3 +138,48 @@
 				interaction = true
 				wither = true
 
+			[light_sources.settings.block_entities.minecraft]
+				bed = true
+				calibrated_sculk_sensor = true
+				furnace = true
+				dropper = true
+				daylight_detector = true
+				sign = true
+				jukebox = true
+				brewing_stand = true
+				sculk_sensor = true
+				hanging_sign = true
+				brushable_block = true
+				conduit = true
+				beehive = true
+				dispenser = true
+				smoker = true
+				lectern = true
+				crafter = true
+				skull = true
+				trial_spawner = true
+				campfire = true
+				vault = true
+				barrel = true
+				chest = true
+				piston = true
+				sculk_shrieker = true
+				end_portal = true
+				shulker_box = true
+				enchanting_table = true
+				banner = true
+				structure_block = true
+				sculk_catalyst = true
+				ender_chest = true
+				bell = true
+				end_gateway = true
+				comparator = true
+				beacon = true
+				command_block = true
+				jigsaw = true
+				hopper = true
+				mob_spawner = true
+				chiseled_bookshelf = true
+				trapped_chest = true
+				decorated_pot = true
+				blast_furnace = true

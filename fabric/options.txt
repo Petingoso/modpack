@@ -1,4 +1,5 @@
-version:3953
+version:3955
+fullscreenMonitor:"0,0,2560,1440"
 fullscreenMode:2
 preferredFullscreenMode:2
 ao:true
@@ -50,8 +51,8 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","lambdabettergrass:default","continuity:default","continuity:glass_pane_culling_fix","highlight:highlight_extended","presencefootsteps:default_sound_pack","black_icons","controlify:legacy_console","file/Chat Reporting Helper.zip","file/SodiumTranslations.zip","file/FreshAnimations_v1.9.2.zip","file/Eyeless Fresh Moves v3.0.1.zip","file/Better-Leaves-8.0-1.20+.zip","file/Light Ores! Vanilla 1.20.6.zip","file/Icons v.1.11.2.zip","file/Essential UI 1.21.zip"]
-incompatibleResourcePacks:["appleskin","charmonium","essential","jade","modernfix","resourcify","yet_another_config_lib_v3","highlight:highlight_extended","file/Light Ores! Vanilla 1.20.6.zip"]
+resourcePacks:["vanilla","fabric","lambdabettergrass:default","continuity:default","continuity:glass_pane_culling_fix","highlight:highlight_extended","presencefootsteps:default_sound_pack","black_icons","file/Chat Reporting Helper.zip","file/SodiumTranslations.zip","file/FreshAnimations_v1.9.2.zip","file/Eyeless Fresh Moves v3.0.1.zip","file/Better-Leaves-8.0-1.20+.zip","file/Light Ores! Vanilla 1.20.6.zip","file/Icons v.1.11.2.zip","file/Essential UI 1.21.zip"]
+incompatibleResourcePacks:["appleskin","charmonium","essential","jade","modernfix","mru","resourcify","yet_another_config_lib_v3","highlight:highlight_extended","file/Light Ores! Vanilla 1.20.6.zip"]
 lastServer:
 lang:en_us
 chatVisibility:0
