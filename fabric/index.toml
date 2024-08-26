@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "40f34413eb6fa226c9339c6d847ab21dc035479c5283fc94e955cbe75024e005"
+hash = "672f9ce30e0b5b4ed098748e5abdce75306854b2c6ddc336824e45bd5ab3edc7"
 
 [[files]]
 file = "LICENSE"
@@ -70,7 +70,7 @@ hash = "f9cdcc4d7556c1e48c4f113b38e30263400a637a24b592c2bc26e364d77f6ae5"
 
 [[files]]
 file = "config/sodium-options.json"
-hash = "d6df6b4dfedd71dc33345cb34eba48bd4cea168f1c325938f071481b48b8b509"
+hash = "23f87ec3539818569c3f83fb17954c4249c11935f3acd66b5c84f3a7ccc7126d"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -356,12 +356,7 @@ metafile = true
 
 [[files]]
 file = "mods/noxesium.pw.toml"
-hash = "e722e83ce843f9fc841f896de747e3590dcd1faa81aba8a73c8b0df7914a48b3"
-metafile = true
-
-[[files]]
-file = "mods/nvidium.pw.toml"
-hash = "ec4bc8b7c36db2dcf3f19b4e03df845c36e18477739a34531de66e2fa75ef2dc"
+hash = "9ae5c34b2f9ab2c0d0442cd5960531f1541491d9ffab515676366fbbbae82ea1"
 metafile = true
 
 [[files]]
@@ -381,7 +376,7 @@ metafile = true
 
 [[files]]
 file = "mods/particular.pw.toml"
-hash = "22272432073024073a344aaff6d535ff7746796030928834e97516ec2658a791"
+hash = "d878e8159739d1ea9a40185d4ace5c0185343f53310e354c2c0afb4b19d2e563"
 metafile = true
 
 [[files]]
@@ -406,7 +401,7 @@ metafile = true
 
 [[files]]
 file = "mods/raised.pw.toml"
-hash = "53a6a346157c0c1350a3c6f38c7bc17d71445e5536e7ff1ba67127664827663e"
+hash = "ff02d2157942f9e3eaf7e712dc8a12012924cb227a2c260642aadc128249be49"
 metafile = true
 
 [[files]]
@@ -521,7 +516,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "eefc9633d420e618162273413411aeda11ed8c5d74e616a01d7170b810d4b7a1"
+hash = "512369121dc5decb0eee92e293a23a93deec6cd5f132077bf6f734d4ea5735da"
 
 [[files]]
 file = "resourcepacks/better-leaves.pw.toml"
