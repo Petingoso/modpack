@@ -1,5 +1,4 @@
 version:3955
-fullscreenMonitor:"0,0,2560,1440"
 fullscreenMode:2
 preferredFullscreenMode:2
 ao:true
