@@ -106,17 +106,17 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "90c02ad9c9a5d845453c8a27e33a8c37c7b308c8298c862eaa1c448ef532937a"
+hash = "941bf61ed32600eefffb76356799bbb7cd1a3d1775a6f478cb69657fc8bcccc5"
 metafile = true
 
 [[files]]
 file = "mods/betterf3.pw.toml"
-hash = "7c801232a6e7b3930c6c6f47f2c4cd77a539f28bc41e6d54e1710c2736d8a46f"
+hash = "7e149f7e7c028f692a331b828b9ad8b84ca2029c8ffe765e19f7a647653e77a9"
 metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "7df3b65f1baa251d8fd0f5025a60170da09827989d716bf61d788efca32bc0b2"
+hash = "c9fa7bb012cd88245033baecafbeeb9121b61ec8880d32270e901ed6da800b36"
 metafile = true
 
 [[files]]
@@ -196,7 +196,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "3508403607f441ed70fe3eff44c5095a74df189887fd1a67f6fbcbc2cbe7c458"
+hash = "479dc1be7b22163d5a4f13c3c156204bce08d2a5310412e8d8f237486d92ae94"
 metafile = true
 
 [[files]]
@@ -206,7 +206,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "324b9816c2616ae8ccfacb2cf93c2ed0c1ea2218efad38ab02cdaa6f75c1db1b"
+hash = "e3854a5bf8296a33ef7e2dcae13689b0923976a3b949564aebc27143e71d47fc"
 metafile = true
 
 [[files]]
@@ -241,7 +241,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "0cbe0af05dbc18f8a45611d3f87d5c9a8d7c545f9e0422031021e54674bf421c"
+hash = "ba59e9b4c7cc30852ed1d1a5a4b14465f552921e54c440233d44a0d12c17567e"
 metafile = true
 
 [[files]]
@@ -261,7 +261,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "fd0ee9e018a4e817cd5f872b4cd2958b83156022ec75f1560aaf1f8f09de7e29"
+hash = "89e7dde92d47d33e4430422f77a85ebd54cc5d8a1391758460ab4c6d00f01340"
 metafile = true
 
 [[files]]
@@ -296,12 +296,12 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "f01e3bf3ac19d148390509cc99c2df982439a619701a2a392101a6f4d3c250db"
+hash = "8db4414ae685883aaa38fba9d9412962338585c231b20b1770b20a119a0d5ba6"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "e37792db4c4b69e11243c7470f0f2a791dc016381e460cd5616eccb6b567b5ab"
+hash = "2b8ce9ab97a35059a79d59d540687385d25956c519ce1728fbcfb13fae93a328"
 metafile = true
 
 [[files]]
@@ -316,7 +316,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "cce89b418e7dd00df7d58eb6556472385aff2f2934c4bfde1b7a2dcd3b1d17cc"
+hash = "7d1a2009e73a857e56c3c14ef809fa4624c0ac53a3760dd337aa09a7f2bc1dca"
 metafile = true
 
 [[files]]
@@ -411,12 +411,12 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "c497424b603b0b9fc190427fd7aa0985d23a74f4cba6c554e14f7dbd29385df2"
+hash = "17518c4d04f490c0df697b6c796fd7d81025271dc1b151091b20c81c71e8bd4a"
 metafile = true
 
 [[files]]
 file = "mods/resolutioncontrol3.pw.toml"
-hash = "dc90005d1e5b3bf38102596d8c7cb4708738f5b3d67c43383d9fe559076d7a79"
+hash = "f84395512fc979564fcb02066a66f62c58a54cc1baf9b80bc8befef2dbcae813"
 metafile = true
 
 [[files]]
@@ -436,7 +436,7 @@ metafile = true
 
 [[files]]
 file = "mods/scalablelux.pw.toml"
-hash = "9ba40cbb5d1da9666bf4b3a0ff6fa7e9520230252bc4cf00f02848f3e4633957"
+hash = "c456b8055d6c39599b74d1ef518cd83892b3055bd283fc0aae78cf6899f5f146"
 metafile = true
 
 [[files]]
