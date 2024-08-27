@@ -390,6 +390,11 @@ hash = "b36d95833b8ec416f259a52e367f9e31e5f2b770be844f08abec6553335205c2"
 metafile = true
 
 [[files]]
+file = "mods/railoptimization.pw.toml"
+hash = "17348559d0deb79189d92e2cd8d4090cd80cdb51a48a86b7049936cd5e81327d"
+metafile = true
+
+[[files]]
 file = "mods/raised.pw.toml"
 hash = "ff02d2157942f9e3eaf7e712dc8a12012924cb227a2c260642aadc128249be49"
 metafile = true

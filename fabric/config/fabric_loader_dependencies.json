@@ -7,8 +7,13 @@
       }
     },
     "debugify": {
-      "+depends": {
-        "minecraft": "1.21.x"
+      "-depends": {
+        "minecraft": "IGNORED"
+      }
+    },
+    "railoptimization": {
+      "-depends": {
+        "minecraft": "IGNORED"
       }
     }
   }
