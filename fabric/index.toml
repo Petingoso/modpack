@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "672f9ce30e0b5b4ed098748e5abdce75306854b2c6ddc336824e45bd5ab3edc7"
+hash = "8cb04d6b89313c8176e24aa917edfbe549a32752dca5bd3117dfa9cfb499ab7c"
 
 [[files]]
 file = "LICENSE"
@@ -18,7 +18,7 @@ hash = "47414d29763a9ed7074412a656c72e4b86d5f3ec964a09c63e64736998a2b99f"
 
 [[files]]
 file = "config/betterf3.json"
-hash = "57412377c352fbaf774771d2228ba56bd21fcd8ed3336009d319bc716aeb9062"
+hash = "844f8a0bd769f8968fd88ca939a63e11cf10dfa59972780ffc4f44cc4a465463"
 
 [[files]]
 file = "config/dynamic_fps.json"
@@ -30,23 +30,23 @@ hash = "6145694267318e252e0fedeb7b4e2716ad2982cdb9edbc82a62c65a10136dde5"
 
 [[files]]
 file = "config/enhanced_bes.properties"
-hash = "8f7ebe7903b8c9877404e879df08b060d3fe0d1a18a20662bab4f9d1325520ba"
+hash = "acdb4c4192578ed885e921007c35dcc0a3ceb8266a4ed0fdd08f335f0d549d45"
 
 [[files]]
 file = "config/entity_model_features.json"
-hash = "c6b4c9aabb8615f8ffbf4a624f26c7caaa1bf485edc082e28f08cab7409b4c42"
+hash = "e211113131cb3ab1265d95c80690576d2409d9150b22afaec2a6ad86c01380f1"
 
 [[files]]
 file = "config/entity_texture_features.json"
-hash = "64922e075cb363c9aa120710752170c7ef7d792f02c35227da60f8fe81029b4b"
+hash = "01583149bc6fe313ba743c16c91846f0504c9e61635f23f5384a241d10472035"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "8458d98d7e16235a07bdefd1960435d93d8d192972276cfe7d51501d1d4b9ef3"
+hash = "5aaff3cba3fd2abdeb39a6fb2d909de777c750a9c758a308977f8c8a0cf84766"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
-hash = "bc69642214ce229a9e9b320b65638eeca5116afc8320bc8280268779f92cf02c"
+hash = "e3003408e23dcbc09f5d3113ce6dba4150c5558aa8663d31b875ff9d7d571d51"
 
 [[files]]
 file = "config/moreculling.toml"
@@ -54,7 +54,7 @@ hash = "62c73e27d434b47e4be3849da28f989931f7aaad7d7dfa689e14584c4ef8edfd"
 
 [[files]]
 file = "config/notenoughanimations.json"
-hash = "dad4a819a8634bac16c49da60014c26c621ac1ab3075825492bad0232edbd4e7"
+hash = "b01d718ebd8410ad63c1025f8ebce9067b374e1b663e1a02068de75e03fa6902"
 
 [[files]]
 file = "config/puzzle.json"
@@ -62,19 +62,19 @@ hash = "c43ad2ec3f4b56c14f8f8e96a8eafab54531de131b5d7d72c09e9ed41feaff3c"
 
 [[files]]
 file = "config/ryoamiclights.toml"
-hash = "837d9e2af107d964ce510ecd20f541b1c67a4256510754bd5212d9f6b9f2c392"
+hash = "19429806b1234deb0ef64adbd21a5a1275d3a9932c3bc932856251935d06944f"
 
 [[files]]
 file = "config/sodium-extra-options.json"
-hash = "f9cdcc4d7556c1e48c4f113b38e30263400a637a24b592c2bc26e364d77f6ae5"
+hash = "bc6cd3581e432e2e537cd6caafddc4040647f3d1943c0d2b12517e6e5ad67540"
 
 [[files]]
 file = "config/sodium-options.json"
-hash = "23f87ec3539818569c3f83fb17954c4249c11935f3acd66b5c84f3a7ccc7126d"
+hash = "be255ff4587feee964e11feba338d417485c7d26e4e7881f00eea2762fe9b7ca"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
-hash = "a62dc3bffb9ce00d5b0b19a7742bedf2701937694ee3544081ba6a12170cf0f7"
+hash = "347613c94a19568814f77dfcb3f05821d1a44ff3b238e5fd9d99600665c2b312"
 
 [[files]]
 file = "config/vanillaicereamfix.json5"
@@ -151,7 +151,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "4fbf7dc558432066534c12a2c4142caf08e64df24ae6182ed400a4a765c3ae7d"
+hash = "b50942a1bec0085be9e0e8902f43623593c38e66dab0117c5a28cbe90dcd80dd"
 metafile = true
 
 [[files]]
@@ -506,7 +506,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "512369121dc5decb0eee92e293a23a93deec6cd5f132077bf6f734d4ea5735da"
+hash = "4ca36dfaf852e27de2ef691a2bee32da1345b7fe7e21bde44325c9c82ebd3870"
 
 [[files]]
 file = "resourcepacks/better-leaves.pw.toml"
