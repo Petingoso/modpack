@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/nvQzSEkH/versions/3ZwcSlCl/Jade-1.21.1-Fabric-15.2.1.jar"
-hash-format = "sha1"
-hash = "8811cf332c43426fca43f3c9d727ff2b464d66e6"
+hash-format = "sha512"
+hash = "6fd71cf563db0a9642d0f8fd0703aeb3b528abf88d6bd591adde75252c6ab06f39c45e46e2d1dd9c3cc73cf031ba447193d144d09a75d554256e93d35347af4a"
 
 [update]
 [update.modrinth]

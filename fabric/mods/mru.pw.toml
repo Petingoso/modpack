@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/SNVQ2c0g/versions/s99KEPTF/MRU-1.0.2%2B1.21%2Bfabric.jar"
-hash-format = "sha1"
-hash = "6ecfc84df73acea97d7a601e655fa07619cd6045"
+hash-format = "sha512"
+hash = "167f0064fe28e36f2c00589966f96934b9c253510caba2a171f95e1d430e29dfeb93b1615afaa40b455a3286f9c71a9313a53c3e2dcfae070bfd95ade1ee9de6"
 
 [update]
 [update.modrinth]

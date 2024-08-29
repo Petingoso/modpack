@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/HFlxNpln/versions/iRdvN7NN/moremcmeta-1.21-4.4.7-fabric.jar"
-hash-format = "sha1"
-hash = "78c096f24a04bc8497728cbfdbd6ea1479ec63a7"
+hash-format = "sha512"
+hash = "e2797e19a44c5cab32f80cf65322b0af3f3fa97865c9f34dafac18ab518def2d43080b110f7fe787d97fd825cb09ffa1a87c63b488915e3ed87497a8b6a3f701"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/3qAYkBMB/versions/5OWOkbp6/polytone-1.21-2.3.10-fabric.jar"
-hash-format = "sha1"
-hash = "f7ec804fc425212fd769a9ba9e12c1a20f1a9d31"
+hash-format = "sha512"
+hash = "74d9f3eb19c42c5cd4a88fd076dea80489cb2a5574c0746b34ad260d20b35051b5246f86b003519bac094a3870a54c680d550a68cccbc582f9d2f01d6c8dba6c"
 
 [update]
 [update.modrinth]

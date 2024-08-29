@@ -4,5 +4,5 @@ side = "client"
 
 [download]
 url = "https://github.com/Noxcrew/noxesium/releases/download/v2.2.1-SNAPSHOT/noxesium-2.2.1-SNAPSHOT+b9dad7e.jar"
-hash-format = "sha1"
-hash = "cc56b3eb6a84ed753eef17cbe38ed2023c90c40f"
+hash-format = "sha512"
+hash = "052bf939b6b4d1331de1da77cd27e551e8e96fa5784838d5c5d4eaa0ddb86ea4013d204f1754e710f8348f03c247e471d588dd999d6bd1ff938d8128fc72b52c"

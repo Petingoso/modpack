@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/5HUqEye3/versions/yRjmOiTf/VanillaIcecreamFix-1.2.2-beta.jar"
-hash-format = "sha1"
-hash = "eb3f1597c48809cbc6adc5ae7c25f22f12ec5bce"
+hash-format = "sha512"
+hash = "fda6b7d2a7b45e20bfa719ebdc9174365b0bb49ec9d0518cdd6b5164e32e52b6cb9f943aa14d9a086519a9e83c31106555e07a6c4b33ce710282d21e3628eaca"
 
 [update]
 [update.modrinth]

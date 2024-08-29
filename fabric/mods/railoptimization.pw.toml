@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/QSvN5pBU/versions/cdk5ix7D/RailOptimization-1.2.jar"
-hash-format = "sha1"
-hash = "843905cab87a3167e0663bd856c67f21f5755721"
+hash-format = "sha512"
+hash = "2220bfa5ce10171df68396a0977ef9d6336447f56d99c746a8a0a42c4d2c95397f7aaa25457bff1213addcfd55f811227c0986c319278cf605f9f6c768ec0074"
 
 [update]
 [update.modrinth]

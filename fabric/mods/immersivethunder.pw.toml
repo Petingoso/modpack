@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/uKjKoMsj/versions/6TiQdfiz/ImmersiveThunder-1.21%2B1.2.2.jar"
-hash-format = "sha1"
-hash = "580686e25c8a65ecdf5891ae90f9b6e1ba22cea6"
+hash-format = "sha512"
+hash = "0ece46c4faf52afcb90fd99c94fe5e8c4e8f4a081e39acccd38b0f12bb0d8d9828a9eb0800188565ae661d353f149067a1dc5ebc8a402306d52e15c9826356d9"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/qyVF9oeo/versions/wP25tEBe/sound-physics-remastered-fabric-1.21.1-1.4.6.jar"
-hash-format = "sha1"
-hash = "e3346400643f2ea17cef2fbb8532dcb8d781a626"
+hash-format = "sha512"
+hash = "f789e461c08a45bb983cc72c72358f3c75969e11fe842a40877986e5d300864f5df57a7e1ee689309b80c09e0dd9d64e60c56195fd1a77114cab20887ec6ad51"
 
 [update]
 [update.modrinth]

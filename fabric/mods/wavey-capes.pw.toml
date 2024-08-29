@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/kYuIpRLv/versions/xCclI9ED/waveycapes-fabric-1.4.9-mc1.21.jar"
-hash-format = "sha1"
-hash = "4ca8439adc3a0c30dfc68b25875a82fb0314fa66"
+hash-format = "sha512"
+hash = "aec44d2e278607810abbfe796474515e8ae470ed1ccf0fdd057dede20c318a7969d026f6abf62ebdc581b0560a14fde24969bd5238d59eddecae43b2a78ddbee"
 
 [update]
 [update.modrinth]

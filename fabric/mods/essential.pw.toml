@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/k2ZPuTBm/versions/JDseM1rb/essential_1-3-4_fabric_1-21-1.jar"
-hash-format = "sha1"
-hash = "8d6ff3799537fc42a112270938a13b73e9a73bc6"
+hash-format = "sha512"
+hash = "90c168aa2506a123240cad656b43a875fb83c7fd1e5e14794d71f959106863381d33cc0e5ec7cc4b1ca0b01207462bb25df57fa4aab3935f710c0ac47d6f8797"
 
 [update]
 [update.modrinth]

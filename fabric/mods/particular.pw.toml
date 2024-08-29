@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/B1CcCd9h/versions/WFcZYoYh/particular-1.1.1%2B1.21.jar"
-hash-format = "sha1"
-hash = "850f5f1e4b8b3d41c5c2f19aafa4ca08f0fd1285"
+hash-format = "sha512"
+hash = "66d0aa88093879d344caae6e83edbe6c848fcdffd2b8595568c8dbcaeef8975c663ce1f2606ecae8807c766f8cc70ee8ee7476995f50f45d5c8a68a6877dfefd"
 
 [update]
 [update.modrinth]

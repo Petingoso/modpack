@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/tLuRLqpa/versions/KhVS4osN/advancementinforeloaded-0.4.2-1.21.jar"
-hash-format = "sha1"
-hash = "ebe0d041ae7564a040a391a41cae57a322b1072e"
+hash-format = "sha512"
+hash = "7f2be76d903eeaf3c959416c93d03166ccd617f1f244a82b83db17136a584bac6ded96164cc873dac51532506eae3d21ead1983f9be01c3ce3ec102260b994a7"
 
 [update]
 [update.modrinth]
