@@ -34,7 +34,7 @@ hash = "acdb4c4192578ed885e921007c35dcc0a3ceb8266a4ed0fdd08f335f0d549d45"
 
 [[files]]
 file = "config/entity_model_features.json"
-hash = "e211113131cb3ab1265d95c80690576d2409d9150b22afaec2a6ad86c01380f1"
+hash = "5fe8484a7ccddd485bcd45e4bd1107f468b41b94a27a4a4cbda63ec06f8778ef"
 
 [[files]]
 file = "config/entity_texture_features.json"
@@ -90,6 +90,11 @@ hash = "e4cbd5493ac91c20bf228987d8e1ef9ec12af7433c6e2320cdf23583500f470f"
 metafile = true
 
 [[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "0b92b8fb6590629950ef610d5ac164f79097136fcce934b3b1ce35321d7bfafa"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "9460d497d821c589a08bbec71b094ce4fd8540324ee9a3f95aecc5ea1cb6399f"
 metafile = true
@@ -120,11 +125,6 @@ hash = "ea4032d606a7e813a7197a0d571c0aaeac5d5928cdd29afd06fe3570ecba7782"
 metafile = true
 
 [[files]]
-file = "mods/charmonium.pw.toml"
-hash = "c615510ba8f891872c0ad705a47bb55bdeef65c9f148024851be942feb60c59c"
-metafile = true
-
-[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "9521193ea621c3c47c757993e3ac6fa0a786b4ac42fe6ad420f79577e7813dbc"
 metafile = true
@@ -142,6 +142,11 @@ metafile = true
 [[files]]
 file = "mods/continuity.pw.toml"
 hash = "4b9b65e3b6af2c4e2dfc86e1bda626dd4f9b69a68498744c10d85005538adb05"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+hash = "6778375e86388c8bf739e5f24e3531d8887fe193176c3c093de2df6f34973b80"
 metafile = true
 
 [[files]]
