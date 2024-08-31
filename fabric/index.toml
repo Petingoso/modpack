@@ -45,10 +45,6 @@ file = "config/fabric_loader_dependencies.json"
 hash = "6a4a30653db9b7a161ab55fc7b0be0dafbbeb456ea634e124dcdff6de6ed92c0"
 
 [[files]]
-file = "config/modernfix-mixins.properties"
-hash = "e3003408e23dcbc09f5d3113ce6dba4150c5558aa8663d31b875ff9d7d571d51"
-
-[[files]]
 file = "config/moreculling.toml"
 hash = "62c73e27d434b47e4be3849da28f989931f7aaad7d7dfa689e14584c4ef8edfd"
 
