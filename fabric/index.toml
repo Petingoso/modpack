@@ -512,12 +512,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "4ca36dfaf852e27de2ef691a2bee32da1345b7fe7e21bde44325c9c82ebd3870"
-
-[[files]]
-file = "resourcepacks/better-leaves.pw.toml"
-hash = "e32413cf2d226a171550eda10925e4d9a01dcb7f042fb05e15686f4078f7c7ad"
-metafile = true
+hash = "63b9ba2ca1941436f450de0380620bcb5607dac7d91283086ceecc638d21d3ce"
 
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
