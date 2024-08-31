@@ -530,7 +530,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "63b9ba2ca1941436f450de0380620bcb5607dac7d91283086ceecc638d21d3ce"
+hash = "6529b8e8a0b85859e965d38d54845a26f0d4c7821cd1dc1aa94c4c113ebd2405"
 
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
