@@ -126,8 +126,9 @@ key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
 key_key.dynamic_fps.toggle_forced:key.keyboard.unknown
 key_key.dynamic_fps.toggle_disabled:key.keyboard.unknown
+key_key.brb.pin:key.keyboard.r
 key_key.resolutioncontrol.settings:key.keyboard.o
-key_key.resolutioncontrol.screenshot:key.keyboard.unknown
+key_key.resolutioncontrol.screenshot:key.keyboard.f9
 key_key.entityculling.toggle:key.keyboard.unknown
 key_key.fabricskyboxes.toggle:key.keyboard.unknown
 key_key.fabricskyboxes.toggle.debug_hud:key.keyboard.unknown

@@ -21,12 +21,20 @@ file = "config/betterf3.json"
 hash = "844f8a0bd769f8968fd88ca939a63e11cf10dfa59972780ffc4f44cc4a465463"
 
 [[files]]
+file = "config/brb.toml"
+hash = "da229a4a89f0264cdbebc0b46587d48ced175e1660492a25306372b905c04abe"
+
+[[files]]
 file = "config/dynamic_fps.json"
 hash = "fb113ce5b5a4d5019d16b378b38eae5869723208ff2f78a85bd75bf688f23eb4"
 
 [[files]]
 file = "config/dynamiccrosshair.json5"
 hash = "6145694267318e252e0fedeb7b4e2716ad2982cdb9edbc82a62c65a10136dde5"
+
+[[files]]
+file = "config/emi.css"
+hash = "0ecb79978eecd98d34462015651aeca1e4f48e30bc65be78c25e25ab05af0c5b"
 
 [[files]]
 file = "config/enhanced_bes.properties"
