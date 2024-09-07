@@ -50,7 +50,7 @@ hash = "01583149bc6fe313ba743c16c91846f0504c9e61635f23f5384a241d10472035"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "6a4a30653db9b7a161ab55fc7b0be0dafbbeb456ea634e124dcdff6de6ed92c0"
+hash = "59a13a52cc4fb612a26016abf66afb5d21c1d4dd4b7a77219e1af92ea67362ee"
 
 [[files]]
 file = "config/moreculling.toml"

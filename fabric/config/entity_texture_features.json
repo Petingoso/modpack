@@ -25,6 +25,7 @@
   "debugLoggingMode": "None",
   "logTextureDataInitialization": false,
   "hideConfigButton": false,
+  "configButtonLoc": "OFF",
   "disableVanillaDirectoryVariantTextures": false,
   "use3DSkinLayerPatch": true,
   "enableFullBodyWardenTextures": true,
