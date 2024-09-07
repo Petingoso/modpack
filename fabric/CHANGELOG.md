@@ -1,5 +1,37 @@
 # Changelog
 
+## [2.4.0](https://github.com/luciobortoletto/enmcv/compare/fabric-v2.3.0...fabric-v2.4.0) (2024-09-07)
+
+
+### ★ Features
+
+* **fabric/ResolutionControl 3:** press f9 to take a large screenshot ([f8760fb](https://github.com/luciobortoletto/enmcv/commit/f8760fb69ed182b29f803cf34b32b68ab73f5dbc))
+
+
+### ♻ Bug Fixes
+
+* **fabric/ModernFix:** temporarily disable Dynamic Resources ([2db5070](https://github.com/luciobortoletto/enmcv/commit/2db507045a4a84e65e9c99c0e702822c42aedd31))
+* **fabric:** fix keybinds ([c7b3efe](https://github.com/luciobortoletto/enmcv/commit/c7b3efe257caa842b8b46c9a2e5475b6c501e08c))
+
+
+### ☀ Modpack Changes
+
+* **fabric/Better Recipe Book:** add Better Recipe Book + dependency Architectury API ([0e6e799](https://github.com/luciobortoletto/enmcv/commit/0e6e799eed6a18b750a4c2c08a9f72091d447801))
+* **fabric/Cherished Worlds:** added Cherished Worlds ([ccae383](https://github.com/luciobortoletto/enmcv/commit/ccae38366a395383da4a04681dfaf7cc0617af10))
+* **fabric/Item Highlighter:** added Item Highlighter + dependency Iceberg ([f2f7d7c](https://github.com/luciobortoletto/enmcv/commit/f2f7d7c33170b5a796cc7428350c2a2116a3b329))
+* **fabric/Motschen's Better Leaves:** remove Motschen's Better Leaves ([050859e](https://github.com/luciobortoletto/enmcv/commit/050859ebc3fdc9dcfbadda450448042f693ef31e))
+* **fabric/RailOptimization:** re-add RailOptimization ([7414832](https://github.com/luciobortoletto/enmcv/commit/741483245b178c68d93fc75bd36e62fcb4c9f661))
+* **fabric:** replace Charmonium with AmbientSounds + dependency CreativeCore ([7ddfa89](https://github.com/luciobortoletto/enmcv/commit/7ddfa8949d512472a6ed7071eb9a242e1c763166))
+
+
+### ⚘ Modpack Updates
+
+* **fabric:** updated Fabric loader ([d01104e](https://github.com/luciobortoletto/enmcv/commit/d01104ed3d5ddf8b273d4ab8d6a3e05a7d5e68b2))
+* **fabric:** updated mods ([64a5ee6](https://github.com/luciobortoletto/enmcv/commit/64a5ee6cda329f3e731b303b92185b4f5bf93134))
+* **fabric:** updated mods ([a3bff9a](https://github.com/luciobortoletto/enmcv/commit/a3bff9abfea08553a8b07ac610f40404f2ef8ef9))
+* **fabric:** updated mods ([e8a1f1e](https://github.com/luciobortoletto/enmcv/commit/e8a1f1e1bafb1adcf50b86152fea3f46a0dcec8a))
+* **fabric:** updated mods ([f4f555a](https://github.com/luciobortoletto/enmcv/commit/f4f555a176a2048a0f7fa160193a83eed66dee0f))
+
 ## [2.3.0](https://github.com/luciobortoletto/enmcv/compare/fabric-v2.2.0...fabric-v2.3.0) (2024-08-26)
 
 
