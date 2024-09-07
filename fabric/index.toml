@@ -42,11 +42,11 @@ hash = "acdb4c4192578ed885e921007c35dcc0a3ceb8266a4ed0fdd08f335f0d549d45"
 
 [[files]]
 file = "config/entity_model_features.json"
-hash = "5fe8484a7ccddd485bcd45e4bd1107f468b41b94a27a4a4cbda63ec06f8778ef"
+hash = "8e790673b3ca485043459486a5dd457c7c3bf4e009f015589b1a69409c7908fd"
 
 [[files]]
 file = "config/entity_texture_features.json"
-hash = "01583149bc6fe313ba743c16c91846f0504c9e61635f23f5384a241d10472035"
+hash = "f67312bae0f37f2cba03cc22303f2cac9266e205bcfa1dddaa599ea29f109491"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
@@ -54,7 +54,7 @@ hash = "59a13a52cc4fb612a26016abf66afb5d21c1d4dd4b7a77219e1af92ea67362ee"
 
 [[files]]
 file = "config/moreculling.toml"
-hash = "62c73e27d434b47e4be3849da28f989931f7aaad7d7dfa689e14584c4ef8edfd"
+hash = "a02136b3998bee84302b935f87bf0c500fa533bf73e084d0703abe70479ca02c"
 
 [[files]]
 file = "config/notenoughanimations.json"
@@ -62,7 +62,7 @@ hash = "b01d718ebd8410ad63c1025f8ebce9067b374e1b663e1a02068de75e03fa6902"
 
 [[files]]
 file = "config/puzzle.json"
-hash = "c43ad2ec3f4b56c14f8f8e96a8eafab54531de131b5d7d72c09e9ed41feaff3c"
+hash = "669716266465dfd0aa156d82d9f418acd0253563c1bb7747230ba9963a56ee8a"
 
 [[files]]
 file = "config/ryoamiclights.toml"
@@ -146,6 +146,11 @@ metafile = true
 [[files]]
 file = "mods/chatanimation.pw.toml"
 hash = "c572f9085e3127e1eac7ea0d727c3dafed891cd72240ca73704ec59a1e13c0bd"
+metafile = true
+
+[[files]]
+file = "mods/cherished-worlds.pw.toml"
+hash = "ef92289630ec01f98d2039fe46a31e2d086b21e9f815ee996d144bcf66838e65"
 metafile = true
 
 [[files]]
