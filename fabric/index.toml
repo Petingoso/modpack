@@ -269,6 +269,11 @@ hash = "dccea839b9e11c8552221cb9fabe57d91303a79f9c1e365c54c5aac491609c45"
 metafile = true
 
 [[files]]
+file = "mods/iceberg.pw.toml"
+hash = "a029330992e40389bc0a5ba14b12a5e024fcfbc92ad486e285f53274ac1d214e"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "cf0adf784f1a181299bc48c9b9048fba5980755365586592e73ffe46ae4915e5"
 metafile = true
@@ -281,6 +286,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "57c085385093d5abb767c0ac9582cad704d7a1ed53833792fd299ea0a4a7b70f"
+metafile = true
+
+[[files]]
+file = "mods/item-highlighter.pw.toml"
+hash = "d4cc5eb15f8287ccf25849a183feb07ffe80eeab05c7080e7ac6fb17065a7149"
 metafile = true
 
 [[files]]
