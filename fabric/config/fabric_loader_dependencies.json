@@ -6,11 +6,6 @@
         "distanthorizons": "*"
       }
     },
-    "debugify": {
-      "-depends": {
-        "minecraft": "IGNORED"
-      }
-    },
     "railoptimization": {
       "-depends": {
         "minecraft": "IGNORED"

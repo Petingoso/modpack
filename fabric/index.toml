@@ -135,7 +135,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "c890442dde8153d86d9c95dfe67777acb82949f2f31e8e4bfd6f7e7c01615652"
+hash = "279d855919ce53cfe4630c85a779bae550da3e19451ebbafdcae3167c6a1adc3"
 metafile = true
 
 [[files]]
@@ -160,7 +160,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "6778375e86388c8bf739e5f24e3531d8887fe193176c3c093de2df6f34973b80"
+hash = "9abf709b93ce39b4fbbc5bc5bbf25e4829f1290434be855291b89fa66b3699c4"
 metafile = true
 
 [[files]]
@@ -170,7 +170,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "06fd83587240ff6b6089912d7ce917e0276bfd821fe356baf584dfb8a918e6f2"
+hash = "7cb9e98526468233fbec6f949c78a8afc5ef29447868e1d11cb71293237966a2"
 metafile = true
 
 [[files]]
@@ -200,7 +200,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "89c2440ea3e2f2385cefd60d5b56dc0cf1a7adc85cdc337d47159485dc6277ee"
+hash = "e9fdd32c16e364850b2413217ab0ab4b2e8c0cea6a473c8f90f379b82dd2105e"
 metafile = true
 
 [[files]]
@@ -210,7 +210,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "a5a1019a4d28a1f025a8a852095b567a94d03d9df7665d30e2af87d850bf76d3"
+hash = "7586887574ce8612893eeb6e9fc198d03f21a491ec3cc1a40c89c4d163e0a603"
 metafile = true
 
 [[files]]
@@ -270,7 +270,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersivethunder.pw.toml"
-hash = "ea10e02518c7c8e597e9ddcb88d75f507d5c4084f029a141afb1bc38166d82b6"
+hash = "086d8b88627ca2b5eb4457a26a8894d1b0861e7b8e909e461a02b054814914da"
 metafile = true
 
 [[files]]
@@ -280,7 +280,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "ed35e63c0b141d8721bc731fe02df0358e6f74c1e390a908fd5474c6db75b0a4"
+hash = "8582bfdb25c8a11873ca5626c569064db7631b74da80aa6258df1837fd551355"
 metafile = true
 
 [[files]]
@@ -360,7 +360,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "9f5b03f87f94f9b8643fb38bd08a7545f3532227bc08397f9a561cc1cfb84cac"
+hash = "51184f4b5c406dd2df58a8e2af3607baa5aca057d9e226f43294861d9b101531"
 metafile = true
 
 [[files]]
@@ -370,7 +370,7 @@ metafile = true
 
 [[files]]
 file = "mods/noxesium.pw.toml"
-hash = "a3f2457f57df11b30543de6c20b49ac819833c495df0b9d6ba8e5700316f1b09"
+hash = "bbdf44748909d37528221823d30af1447d4ecb4a4e6bbede2f1422d9b80ae02b"
 metafile = true
 
 [[files]]
@@ -395,7 +395,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "4f6e69551e384e3b536660cd3cf009cd2976fbf1af56b9a212f740ce1a5c34bf"
+hash = "762733355de38292f9109772e3fa88b290d7b792e3e41405c24e121880bd52dc"
 metafile = true
 
 [[files]]
@@ -405,7 +405,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzle.pw.toml"
-hash = "7f18b18a5668700d67ca12e4dff2e14af7942c377dcdaba7830fc7e5ebd8e956"
+hash = "d0033f886c2e43f9b1aeb36b4bdef4252e422d932fdd13a4f095f6331d8751e1"
 metafile = true
 
 [[files]]
@@ -559,7 +559,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "549b9e178b00ca768b00b6b3cbb337442a47af6e7a80a1c11be50353a6bef76e"
+hash = "ed19f85e6b55a0b1dddc39ae1bcbd58df9c8d5a2102f9e263fb4543b0af49db8"
 metafile = true
 
 [[files]]
