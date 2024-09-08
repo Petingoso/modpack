@@ -25,6 +25,10 @@ file = "config/brb.toml"
 hash = "da229a4a89f0264cdbebc0b46587d48ced175e1660492a25306372b905c04abe"
 
 [[files]]
+file = "config/continuity.json"
+hash = "97e9b117a4c4e58a4a67189fc8e7b6f83408d7735db8ad5b5dd5c6b4d9b13910"
+
+[[files]]
 file = "config/dynamic_fps.json"
 hash = "fb113ce5b5a4d5019d16b378b38eae5869723208ff2f78a85bd75bf688f23eb4"
 
@@ -444,11 +448,6 @@ hash = "d1cc4e47b16e8d010ad3c0555553479200292407b3991b96a57e92241afcb8df"
 metafile = true
 
 [[files]]
-file = "mods/reeses-sodium-options.pw.toml"
-hash = "491ee12ec90494bbed13bfef38eda7185a816a5a0e449b4b926ffbc2d8329a26"
-metafile = true
-
-[[files]]
 file = "mods/resolutioncontrol3.pw.toml"
 hash = "3cd6537b34fe2375abdf1186ae90d857356158e4beb6f0fb2258991a76053c87"
 metafile = true
@@ -546,6 +545,11 @@ metafile = true
 [[files]]
 file = "mods/wavey-capes.pw.toml"
 hash = "25a2d303e9492184707633a0a8e52b468eeeb17bbffe56e1b2a6d4e13ebbc3f2"
+metafile = true
+
+[[files]]
+file = "mods/xanders-sodium-options.pw.toml"
+hash = "24d93b67436b5500bbcd5fad70a0fdbecffa75d2dcc52f098472bfb112dfcfc4"
 metafile = true
 
 [[files]]
