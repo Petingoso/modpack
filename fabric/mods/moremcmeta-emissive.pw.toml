@@ -1,0 +1,13 @@
+name = "MoreMcmeta Emissive Textures"
+filename = "emissive-plugin-1.21-2.0.5-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/oQ0dIGZg/versions/KD4XkfvI/emissive-plugin-1.21-2.0.5-fabric.jar"
+hash-format = "sha512"
+hash = "87782742782a7b55e895b6b28577e990554c5d2cdbb61a9b600a42acd3ec99e3f0d89461ce263be5ae939f897b5cff5d6411ec1348dcb668a987ff9371e21321"
+
+[update]
+[update.modrinth]
+mod-id = "oQ0dIGZg"
+version = "KD4XkfvI"

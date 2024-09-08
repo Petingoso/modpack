@@ -354,6 +354,11 @@ hash = "0633108c3f6624f22162a6b18f86a03c2f48c7440108a960ae3e4df56b681d3f"
 metafile = true
 
 [[files]]
+file = "mods/moremcmeta-emissive.pw.toml"
+hash = "8b40546c6b095d32ca0874f79f1d2913a54e83a1e1087d9481eb60ff300a5ac6"
+metafile = true
+
+[[files]]
 file = "mods/moremcmeta.pw.toml"
 hash = "b57b2711b47d396fe177bc79067b369247b73b39b3645599cf78ef0158b5d1d4"
 metafile = true
@@ -550,7 +555,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "6529b8e8a0b85859e965d38d54845a26f0d4c7821cd1dc1aa94c4c113ebd2405"
+hash = "9f7e15e31c0d26385062be2a0922e245023e43c5a62168fea3914e43d668dd05"
 
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
