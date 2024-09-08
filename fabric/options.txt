@@ -3,7 +3,7 @@ fullscreenMode:2
 preferredFullscreenMode:2
 ao:true
 biomeBlendRadius:3
-enableVsync:true
+enableVsync:false
 entityDistanceScaling:1.0
 entityShadows:true
 forceUnicodeFont:false
