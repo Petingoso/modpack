@@ -1,5 +1,25 @@
 # Changelog
 
+## [2.4.1](https://github.com/luciobortoletto/enmcv/compare/fabric-v2.4.0...fabric-v2.4.1) (2024-09-18)
+
+
+### ♻ Bug Fixes
+
+* **fabric:** disabled V-Sync ([98d1aee](https://github.com/luciobortoletto/enmcv/commit/98d1aeec481b62d7189d6c17e21ecfacab47b2d6))
+
+
+### ☀ Modpack Changes
+
+* **fabric/CIT Resewn:** added CIT Resewn ([7e769ee](https://github.com/luciobortoletto/enmcv/commit/7e769eead5e5a933b6c4844b3b3d01009643d70f))
+* **fabric/Ksyxis:** added Ksyxis ([68c5632](https://github.com/luciobortoletto/enmcv/commit/68c56327f990832cf97096181a5605b9daa1e563))
+* **fabric/MoreMcmeta Emissive Textures:** added MoreMcmeta Emissive Textures ([901e561](https://github.com/luciobortoletto/enmcv/commit/901e5614cd2401da31ba9ad084d7670ae5057a56))
+* **fabric/Xander's Sodium Options:** replace Reese's Sodium Options with Xander's Sodium Options ([c84bf3f](https://github.com/luciobortoletto/enmcv/commit/c84bf3fb4ac29225097b7ae1c4c94a4f453f7c49))
+
+
+### ⚘ Modpack Updates
+
+* **fabric:** updated mods ([e3f1fb4](https://github.com/luciobortoletto/enmcv/commit/e3f1fb4a67ecba8fcfe20b6218a933ffd22e7d14))
+
 ## [2.4.0](https://github.com/luciobortoletto/enmcv/compare/fabric-v2.3.0...fabric-v2.4.0) (2024-09-07)
 
 
