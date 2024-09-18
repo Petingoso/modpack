@@ -3,11 +3,11 @@ filename = "talkbubbles-1.0.8.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/BUpChT1v/versions/Qnt7n2jI/talkbubbles-1.0.8.jar"
+url = "https://cdn.modrinth.com/data/BUpChT1v/versions/MEHKQGEi/talkbubbles-1.0.8.jar"
 hash-format = "sha512"
-hash = "9a34ca3c8d4277c96f8fdb2c6e00e4e1ac18e0ecd3da5e7449cc2ed1819f58210ac5a38f398d3afa72e0025130ae6cfaf9d450ad948bb3c64d6327645a77c202"
+hash = "56a4c378888c78c30f1253d0a63608752c3cdee763d9361c3316bee1230d74433102c9b7e99683e76358154db7b19b62552bada8d3d4007fde28857a35677186"
 
 [update]
 [update.modrinth]
 mod-id = "BUpChT1v"
-version = "Qnt7n2jI"
+version = "MEHKQGEi"
