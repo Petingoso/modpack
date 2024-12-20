@@ -9,3 +9,6 @@
 
 # Eclude precommit hooks config
 .pre-commit-config.yaml
+
+packwiz
+packwiz_version.md
