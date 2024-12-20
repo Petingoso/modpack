@@ -7,3 +7,6 @@
 
 # Exclude Changelog
 /CHANGELOG.release.md
+
+packwiz
+packwiz_version.md
