@@ -409,11 +409,6 @@ hash = "06b532f3d1c5202664e749c190db51e10e8531d124468db57079355a1ad355f5"
 metafile = true
 
 [[files]]
-file = "mods/obsidianui.pw.toml"
-hash = "3cce60b7d7bb63fa7964074693376aee924c092f49d7e49b96ebf6d4dcdb8efc"
-metafile = true
-
-[[files]]
 file = "mods/optigui.pw.toml"
 hash = "ca77b2f891e554b3ba0db25f14403f7fbe9dceb7c0958e8077684b9a2d34529b"
 metafile = true
