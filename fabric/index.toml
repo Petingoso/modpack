@@ -373,11 +373,6 @@ hash = "7c81f44783c5a303e88d3cd40bcf46157d4ecbbbcb031c0186aa34843d14bd4a"
 metafile = true
 
 [[files]]
-file = "mods/moremcmeta-emissive.pw.toml"
-hash = "13d1cb8929fd816f844678ead9be8f94547fe62c7fdf7c022c83a7d47b65650e"
-metafile = true
-
-[[files]]
 file = "mods/moremcmeta.pw.toml"
 hash = "94a8756d2aec782bd1b7abf14b041937f628cc24578c89fc0464c1407fe56373"
 metafile = true
@@ -460,11 +455,6 @@ metafile = true
 [[files]]
 file = "mods/raised.pw.toml"
 hash = "98362357cbb70b039275c055bb357fad1bb8a1566d5713dd7cfd9132dd606886"
-metafile = true
-
-[[files]]
-file = "mods/resolutioncontrol3.pw.toml"
-hash = "3cd6537b34fe2375abdf1186ae90d857356158e4beb6f0fb2258991a76053c87"
 metafile = true
 
 [[files]]
