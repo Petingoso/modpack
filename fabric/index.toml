@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "4dac2ec43d82cd29da1240587e564cbf4e179038ca847c469d8bc38ff6d964e3"
+hash = "07ae558652dce33999a1a9f6b942119b611b09f831a2b060568bd160188d9831"
 
 [[files]]
 file = "LICENSE"
@@ -46,7 +46,7 @@ hash = "acdb4c4192578ed885e921007c35dcc0a3ceb8266a4ed0fdd08f335f0d549d45"
 
 [[files]]
 file = "config/entity_model_features.json"
-hash = "8e790673b3ca485043459486a5dd457c7c3bf4e009f015589b1a69409c7908fd"
+hash = "6be27ffe34b0df3f65b20fb06c22ee4297933f33e1376f7dea59c2549ba29e30"
 
 [[files]]
 file = "config/entity_texture_features.json"
@@ -69,10 +69,6 @@ file = "config/puzzle.json"
 hash = "669716266465dfd0aa156d82d9f418acd0253563c1bb7747230ba9963a56ee8a"
 
 [[files]]
-file = "config/ryoamiclights.toml"
-hash = "19429806b1234deb0ef64adbd21a5a1275d3a9932c3bc932856251935d06944f"
-
-[[files]]
 file = "config/sodium-extra-options.json"
 hash = "bc6cd3581e432e2e537cd6caafddc4040647f3d1943c0d2b12517e6e5ad67540"
 
@@ -86,7 +82,7 @@ hash = "347613c94a19568814f77dfcb3f05821d1a44ff3b238e5fd9d99600665c2b312"
 
 [[files]]
 file = "config/vanillaicereamfix.json5"
-hash = "d1537d49c8e614fcb845e6016e388220b9853c66b6ce16aa2013149a3fd1e780"
+hash = "f82c1a86645f4b0cca261e92ce5477dc4ef23575f5b9de574b8ec9bc930f2339"
 
 [[files]]
 file = "essential/config.toml"
@@ -420,6 +416,11 @@ metafile = true
 [[files]]
 file = "mods/optigui.pw.toml"
 hash = "ca77b2f891e554b3ba0db25f14403f7fbe9dceb7c0958e8077684b9a2d34529b"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "22d2bd35f4752e53e7604168881af536589e1a29df882bc0f2431e38912a58ec"
 metafile = true
 
 [[files]]
