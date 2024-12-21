@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "07ae558652dce33999a1a9f6b942119b611b09f831a2b060568bd160188d9831"
+hash = "20c62fb23f61c14b20345098baa2b70142de84e0fadc16327046a8588ff7b7e2"
 
 [[files]]
 file = "LICENSE"
@@ -121,6 +121,11 @@ metafile = true
 [[files]]
 file = "mods/better-stats.pw.toml"
 hash = "ccde3290b7c187f1604334482954bbb6452509690caaeccc8dda0b08d7320a09"
+metafile = true
+
+[[files]]
+file = "mods/bettercommandblockui.pw.toml"
+hash = "e53155acc7b3692b6a2684f6334d50c9e128b1f007ad7b2c8b514e7d1f2500c5"
 metafile = true
 
 [[files]]
@@ -550,7 +555,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "4977ff271bbd57a2caaa012889088fd58fb1636acef5c55352d1c33535d6b4c2"
+hash = "b623b1d24f21f3ab1ea36fe269c7b5f39991a23c6da1c870db49bdd5e0bde482"
 
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
