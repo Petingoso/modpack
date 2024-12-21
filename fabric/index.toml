@@ -409,6 +409,11 @@ hash = "dbce4d93762ec2bd86d718f90d48b7fb59345ec723395063481abff6dd7d9630"
 metafile = true
 
 [[files]]
+file = "mods/now-playing.pw.toml"
+hash = "7fdd5da0f024cf26950fff3f3c41b36c9fd47172006d75d29cd63647c8f91df4"
+metafile = true
+
+[[files]]
 file = "mods/noxesium.pw.toml"
 hash = "06b532f3d1c5202664e749c190db51e10e8531d124468db57079355a1ad355f5"
 metafile = true
