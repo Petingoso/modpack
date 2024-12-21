@@ -1,6 +1,4 @@
 version:3955
-fullscreenMode:2
-preferredFullscreenMode:2
 ao:true
 biomeBlendRadius:3
 enableVsync:false
@@ -14,7 +12,7 @@ darknessEffectScale:1.0
 glintSpeed:0.5
 glintStrength:0.75
 prioritizeChunkUpdates:0
-fullscreen:false
+fullscreen:true
 gamma:1.0
 graphicsMode:1
 guiScale:3
@@ -50,8 +48,8 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","lambdabettergrass:default","continuity:default","continuity:glass_pane_culling_fix","highlight:highlight_extended","presencefootsteps:default_sound_pack","black_icons","file/Chat Reporting Helper.zip","file/SodiumTranslations.zip","file/FreshAnimations_v1.9.2.zip","file/Eyeless Fresh Moves v3.0.1.zip","file/Light Ores! Vanilla 1.20.6.zip","file/Icons v.1.11.2.zip","file/Essential UI 1.21.zip"]
-incompatibleResourcePacks:["appleskin","charmonium","essential","jade","modernfix","mru","resourcify","yet_another_config_lib_v3","highlight:highlight_extended","file/Light Ores! Vanilla 1.20.6.zip"]
+resourcePacks:["vanilla","fabric","lambdabettergrass:default","continuity:default","continuity:glass_pane_culling_fix","highlight:highlight_extended","black_icons","file/Chat Reporting Helper.zip","file/SodiumTranslations.zip","file/FreshAnimations_v1.9.2.zip","file/Eyeless Fresh Moves v3.0.1.zip","file/Light Ores! Vanilla 1.20.6.zip","file/Icons v.1.11.3.zip","file/Essential UI 1.21.zip"]
+incompatibleResourcePacks:["appleskin","badoptimizations","cherishedworlds","essential","jade","modernfix","mru","resourcify","yet_another_config_lib_v3","highlight:highlight_extended","file/Light Ores! Vanilla 1.20.6.zip"]
 lastServer:
 lang:en_us
 chatVisibility:0
@@ -127,8 +125,7 @@ key_key.hotbar.9:key.keyboard.9
 key_key.dynamic_fps.toggle_forced:key.keyboard.unknown
 key_key.dynamic_fps.toggle_disabled:key.keyboard.unknown
 key_key.brb.pin:key.keyboard.y
-key_key.resolutioncontrol.settings:key.keyboard.o
-key_key.resolutioncontrol.screenshot:key.keyboard.f9
+key_betterstats.key_binding.toggle_hud_screen:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.unknown
 key_key.fabricskyboxes.toggle:key.keyboard.unknown
 key_key.fabricskyboxes.toggle.debug_hud:key.keyboard.unknown
@@ -143,7 +140,6 @@ key_key.optigui.inspect:key.keyboard.f12
 key_key.presencefootsteps.settings:key.keyboard.f10
 key_key.presencefootsteps.toggle:key.keyboard.unknown
 key_key.raised.options:key.keyboard.grave.accent
-key_tcdcommons.key.refresh_current_screen:key.keyboard.unknown
 key_key.push_to_talk:key.keyboard.unknown
 key_key.whisper:key.keyboard.unknown
 key_key.mute_microphone:key.keyboard.m
