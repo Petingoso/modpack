@@ -568,6 +568,11 @@ hash = "b96abadb2cdb56d53145609e6a8ee9fd70171878bb5414412dddee1fca902a7b"
 metafile = true
 
 [[files]]
+file = "resourcepacks/icons-advertisement-removal.pw.toml"
+hash = "f45d1f92f952c722bc763144e23bbd4bec932287a25996e97ee11c78f67336e5"
+metafile = true
+
+[[files]]
 file = "resourcepacks/icons.pw.toml"
 hash = "2c30a792eb8c62778b5f60772d16530062a428e52d2767c24e971812aff7ac40"
 metafile = true
