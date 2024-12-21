@@ -1,5 +1,26 @@
 # Changelog
 
+## [2.5.0](https://github.com/luciobortoletto/enmcv/compare/fabric-v2.4.1...fabric-v2.5.0) (2024-12-21)
+
+
+### ★ Features
+
+* **fabric:** updated configs ([6e83086](https://github.com/luciobortoletto/enmcv/commit/6e83086e968331880cb18339c96b32cebc002cc4))
+
+
+### ☀ Modpack Changes
+
+* **fabric/IAR:** added Icons Advertisement Removal ([2fa90ff](https://github.com/luciobortoletto/enmcv/commit/2fa90ff00eba219cbab87c9ee5047057f7887f11))
+* **fabric/ObsidianUI:** removed ObsidianUI ([ef8fcd8](https://github.com/luciobortoletto/enmcv/commit/ef8fcd850ed69835c5d68530c14e9964d973a927))
+* **fabric/owo-lib:** added oωo (owo-lib) ([06291b7](https://github.com/luciobortoletto/enmcv/commit/06291b7d6d565f09e5799f3868a76db0eca7d5ed))
+* **fabric:** removed MoreMcmeta Emissive Textures and ResolutionControl ([264783d](https://github.com/luciobortoletto/enmcv/commit/264783d9b1daba0430b4acc7d3e7dd076d202635))
+
+
+### ⚘ Modpack Updates
+
+* **fabric:** updated Fabric loader ([26a73c2](https://github.com/luciobortoletto/enmcv/commit/26a73c261dd728fa1c20b85bbff1b227d176ea4d))
+* **fabric:** updated mods, use LambDynamicLights and ([77429b4](https://github.com/luciobortoletto/enmcv/commit/77429b41a43a78dc5375a8a788f83f7a584b2825))
+
 ## [2.4.1](https://github.com/luciobortoletto/enmcv/compare/fabric-v2.4.0...fabric-v2.4.1) (2024-09-18)
 
 
