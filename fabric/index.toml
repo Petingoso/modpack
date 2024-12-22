@@ -69,6 +69,10 @@ file = "config/puzzle.json"
 hash = "669716266465dfd0aa156d82d9f418acd0253563c1bb7747230ba9963a56ee8a"
 
 [[files]]
+file = "config/skinshuffle/config.json"
+hash = "80c731b21768f7f8c90e94572a237c8ce92178e9728e85ecabfe8aa791bf9e74"
+
+[[files]]
 file = "config/sodium-extra-options.json"
 hash = "3b04bf2aeec0852263fbf7e2a9f96919b526ba35f199dcd0f0650b118a5b6a05"
 
@@ -83,10 +87,6 @@ hash = "b5d28290c541cbefb299864d6081715d82611b996649c2630140efd9db11d609"
 [[files]]
 file = "config/vanillaicereamfix.json5"
 hash = "f82c1a86645f4b0cca261e92ce5477dc4ef23575f5b9de574b8ec9bc930f2339"
-
-[[files]]
-file = "essential/config.toml"
-hash = "de07b5affa7c336a76d480061579b06732882b86c27a68ff4b2010f0668b4212"
 
 [[files]]
 file = "mods/advancements-reloaded.pw.toml"
@@ -106,6 +106,11 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "1102440dd2533ba3a154419bb95ff1f81b858201eb0c44d2a2eea486c74e565a"
+metafile = true
+
+[[files]]
+file = "mods/auto-reauth.pw.toml"
+hash = "1f58e14329ee26fa480dd7428bf5c06f1bd29859107964927fee7f8763b0609c"
 metafile = true
 
 [[files]]
@@ -204,6 +209,11 @@ hash = "a52ba05fa9ffc50b308707fb270b804a91f93377f075065d0f9eeb08a448e844"
 metafile = true
 
 [[files]]
+file = "mods/e4mc.pw.toml"
+hash = "ceb248c37ea0d486bc909edb4d86cfd7fe72bde893f9e0a9e1f584f3263db9dd"
+metafile = true
+
+[[files]]
 file = "mods/ebe.pw.toml"
 hash = "b1f89407254a20cde6c60994a6315bd841b7f562669a1d29b436ec97463ff2ae"
 metafile = true
@@ -226,11 +236,6 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "d41804aff0c09612645047b2e53bfd88a018deaa7e4ad17d6656dd67e0af2a83"
-metafile = true
-
-[[files]]
-file = "mods/essential.pw.toml"
-hash = "f081466fb48fb23aff4c7acee622c4d8c84deaacd10b63f45b7cea75082c3ca2"
 metafile = true
 
 [[files]]
@@ -484,8 +489,18 @@ hash = "31824b27e7cfef5ff4091fdb37cce9e42be93dbbef6610874ed7b7158d44fd08"
 metafile = true
 
 [[files]]
+file = "mods/skinshuffle.pw.toml"
+hash = "13cc1eac7740a7d2212c5689b3efc64627e326ee822c1091fa7904950aabd707"
+metafile = true
+
+[[files]]
 file = "mods/smooth-scrolling-refurbished.pw.toml"
 hash = "e75981a53288d4feea80c1ff4bcf68980739ad2e3bc4ab38bd253655a4828ab9"
+metafile = true
+
+[[files]]
+file = "mods/snapper.pw.toml"
+hash = "37bc655ebb417b6624fbeddeeb3624fa771ad9af080c134fc427d6c85ddc3951"
 metafile = true
 
 [[files]]
@@ -559,17 +574,17 @@ hash = "40f878858365d9aef818ebc8cd74088efbdeb090e6d175fd15a3e4a114078955"
 metafile = true
 
 [[files]]
+file = "mods/zoomify.pw.toml"
+hash = "3c768bdd4ba36d8e871a740457f4d3deb387cd1fa7cdb4417626cec3e2c72706"
+metafile = true
+
+[[files]]
 file = "options.txt"
 hash = "b623b1d24f21f3ab1ea36fe269c7b5f39991a23c6da1c870db49bdd5e0bde482"
 
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
 hash = "8f3093e175ab439cdf381c7f038510e73a07698cc9e9c7c370cb327bd8bbd3cd"
-metafile = true
-
-[[files]]
-file = "resourcepacks/essentialui.pw.toml"
-hash = "fc158179da807d4db7533415229a8f126ed21ebed1bd08e512d43bc74eceaecf"
 metafile = true
 
 [[files]]
