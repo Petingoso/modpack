@@ -179,6 +179,11 @@ hash = "4f97764f3cb4c74f84afbe32cf8a1d2cefecda129c0f1441906562dcb8f2b8cb"
 metafile = true
 
 [[files]]
+file = "mods/cosmetica.pw.toml"
+hash = "5cb9631fa8b1bc64cf437c8ea3c7a8cc5935f22bd6c29ff06475ddcde3e8aba9"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "3c2f0bff7c03aaee08732e2074af4c1cf1f5d3201c5bc3ad9000b8760cba2b41"
 metafile = true
@@ -221,6 +226,11 @@ metafile = true
 [[files]]
 file = "mods/emi.pw.toml"
 hash = "e4a249f5a49f81b2ae44bd52d4b5b640b8236604a6b2efb998d4e451fcce3bde"
+metafile = true
+
+[[files]]
+file = "mods/emotecraft.pw.toml"
+hash = "50c3937fcd56c26e3f54aecf3e5406da4832cf612f6185dd028e47faaaf5377d"
 metafile = true
 
 [[files]]
@@ -271,6 +281,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "9fb4d588bd578e2f16a9605ff6303872130b36ccb0fdfff98bd7274da94f91b9"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "f9d89c62265e675839395d925f4162e3e93fda837ed50fbe3832f4ae9c58bebb"
 metafile = true
 
 [[files]]
@@ -421,6 +436,11 @@ metafile = true
 [[files]]
 file = "mods/noxesium.pw.toml"
 hash = "06b532f3d1c5202664e749c190db51e10e8531d124468db57079355a1ad355f5"
+metafile = true
+
+[[files]]
+file = "mods/online-emotes.pw.toml"
+hash = "c39c00436459f5a16083f0dcf162f076a5547b50812b5a95037da89fe7441c9b"
 metafile = true
 
 [[files]]

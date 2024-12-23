@@ -1,0 +1,8 @@
+name = "Cosmetica"
+filename = "cosmetica-1.21.1-1.2.9-UNOFFICIAL-release5.jar"
+side = "client"
+
+[download]
+url = "https://github.com/luciobortoletto/Cosmetica/releases/download/1.21.1-5/cosmetica-1.21.1-1.2.9-UNOFFICIAL-release5.jar"
+hash-format = "sha512"
+hash = "70ae1b117a68ed5e419a3f67da9181f307d77b7b4586bec14875ad155bcea76c0c60d0bfb1105d6ed915eb4ce8a14336bc77c5f99a79d9862e5b55b8e6e56c0a"
