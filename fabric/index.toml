@@ -89,6 +89,10 @@ file = "config/vanillaicereamfix.json5"
 hash = "f82c1a86645f4b0cca261e92ce5477dc4ef23575f5b9de574b8ec9bc930f2339"
 
 [[files]]
+file = "cosmetica/cosmetica.properties"
+hash = "836effa6f11556b36c92622b8b822340e1151dd72b7db522ae589ef2fccb45e5"
+
+[[files]]
 file = "mods/advancements-reloaded.pw.toml"
 hash = "3b8da4468f2109ea49d43317aa11f9cf9c1408adaca30d76a70dff3a6385c43b"
 metafile = true
@@ -176,6 +180,11 @@ metafile = true
 [[files]]
 file = "mods/continuity.pw.toml"
 hash = "4f97764f3cb4c74f84afbe32cf8a1d2cefecda129c0f1441906562dcb8f2b8cb"
+metafile = true
+
+[[files]]
+file = "mods/controlify.pw.toml"
+hash = "72c1d1d5b0d22582cb8698847ad9f17e22304e3877ebad8874a0a65452403986"
 metafile = true
 
 [[files]]
