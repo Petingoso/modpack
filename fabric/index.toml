@@ -244,7 +244,7 @@ metafile = true
 
 [[files]]
 file = "mods/emotecraft.pw.toml"
-hash = "50c3937fcd56c26e3f54aecf3e5406da4832cf612f6185dd028e47faaaf5377d"
+hash = "c57312e3d3a58e124b60054660745cb6ab20a399ce3c4ef9ba4eb38dad7f0e82"
 metafile = true
 
 [[files]]
@@ -264,7 +264,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "c0bb895f2240522cc6f20afb9ef46293d9b689b8d46839364350e5b0682bac4b"
+hash = "e0060dd5608032c12619d942e2004f7a1635ebadaef3b928445d2211f082f01f"
 metafile = true
 
 [[files]]
@@ -339,7 +339,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "9bbe7fa9a6213d85602b9fdd9861057945960ec98de08cf0deb5d9d90b3b136f"
+hash = "17f2b0bb963e90e7e59f9356c81fe4a5857fcbad812cbab6b0eb39400ba428f1"
 metafile = true
 
 [[files]]
@@ -384,7 +384,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "85549a8527681f0a07ff2835345f022d7293460797da66bc5af1f948ca1e44b3"
+hash = "a21dbd676882b344c8d7158e234f19d380598eb1b63492a34bd75dddc42cfedd"
 metafile = true
 
 [[files]]
@@ -404,7 +404,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "7c81f44783c5a303e88d3cd40bcf46157d4ecbbbcb031c0186aa34843d14bd4a"
+hash = "846d1972f31ab17805ad0ea3a6584cfac35150aa1bef8310011b6f5fc57036e7"
 metafile = true
 
 [[files]]
@@ -434,7 +434,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "a1c07d980228d8035bcf55cda9ea515d79e15820e47729c5b9e52d19f581a1cf"
+hash = "2413fcb171198ce6ff6f2dbc2bc77fde132865558fce5873a2ba2a1d397d52a0"
 metafile = true
 
 [[files]]
@@ -479,7 +479,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "09e56baee86b4a88e1abdb1dace3c5d94ad9eb3bdb06d4762fdf6a8e62ec0074"
+hash = "3653de8e31e3759f080199b388ab4aba5c3c6a3fd4bf47667a8baf1c71acc185"
 metafile = true
 
 [[files]]
@@ -648,7 +648,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "a73b4b7a889438f774e82d69a2f0f70cf70bb034d5f2640db5c5c66dc1a27801"
+hash = "0dc4a9460a5f22cb0a2b60e8d9409de9d068833139996837662de378813410c4"
 metafile = true
 
 [[files]]
