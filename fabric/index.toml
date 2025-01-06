@@ -129,7 +129,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "ccde3290b7c187f1604334482954bbb6452509690caaeccc8dda0b08d7320a09"
+hash = "f444cc7ce6308679825318d380b85dd08307eb429361ff5fb604dae0608fb656"
 metafile = true
 
 [[files]]
@@ -149,7 +149,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "4136f561b52ce1f00d257fc595936b57dfa9cd525cf5303d243608f7630a5495"
+hash = "da7b401253caaebc0408ad843a6da5f3df59c857afe94ffaa4e28d61b63862e7"
 metafile = true
 
 [[files]]
@@ -444,7 +444,7 @@ metafile = true
 
 [[files]]
 file = "mods/now-playing.pw.toml"
-hash = "7fdd5da0f024cf26950fff3f3c41b36c9fd47172006d75d29cd63647c8f91df4"
+hash = "55c988cb7249bc8856130ba0e1d87f27324cf7366cf52677000289940c5bd09e"
 metafile = true
 
 [[files]]
@@ -479,7 +479,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "3653de8e31e3759f080199b388ab4aba5c3c6a3fd4bf47667a8baf1c71acc185"
+hash = "517f2ae58642e324454674d40fb60c4a2b62125786dc55978702b6c9bc397efc"
 metafile = true
 
 [[files]]
@@ -554,7 +554,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound.pw.toml"
-hash = "b182ba1de487ec79d7fb1ee43771dff68c4fafa2584d33b97fb6eb59394e8cad"
+hash = "86432b755da9d1eac6399378c471d1620de059410414969ead18c08dcb3c3333"
 metafile = true
 
 [[files]]
@@ -648,7 +648,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "0dc4a9460a5f22cb0a2b60e8d9409de9d068833139996837662de378813410c4"
+hash = "a1b139e8099ddf4fd890271308ce61ee7d9eb5c282bf3dde4e180ed459a180b3"
 metafile = true
 
 [[files]]
