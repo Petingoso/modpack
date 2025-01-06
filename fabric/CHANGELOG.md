@@ -1,5 +1,28 @@
 # Changelog
 
+## [2.6.0](https://github.com/luciobortoletto/enmcv/compare/fabric-v2.5.0...fabric-v2.6.0) (2025-01-06)
+
+
+### ★ Features
+
+* **fabric/essential:** replaced Essential Mod with other mods (1) ([bb7bef0](https://github.com/luciobortoletto/enmcv/commit/bb7bef0fcd405bd1847d368f211223a489420a1d))
+* **fabric/essential:** replaced Essential Mod with other mods (2) ([e1c76e1](https://github.com/luciobortoletto/enmcv/commit/e1c76e1f6bbcc68abd125fb6c82ae79c905bf772))
+
+
+### ☀ Modpack Changes
+
+* **fabric/bettercommandblockui:** added Better Command Block UI ([190c21b](https://github.com/luciobortoletto/enmcv/commit/190c21bf8d99ec7e4f6e67bb27a3c43691786f0a))
+* **fabric/Controlify:** added Controlify and updated configs ([ce17525](https://github.com/luciobortoletto/enmcv/commit/ce1752509f77f443706aa077efed3f5b3bfd1d15))
+* **fabric/CraftPresence:** added CraftPresence + dependency UniLib ([8dc4ac3](https://github.com/luciobortoletto/enmcv/commit/8dc4ac33c2cbd58ce2cf246aaed931c1e454299e))
+* **fabric/now-playing:** added Now Playing ([719db55](https://github.com/luciobortoletto/enmcv/commit/719db55434a3e74b0e1dafd67c3ac7cc6790aa58))
+
+
+### ⚘ Modpack Updates
+
+* **fabric:** updated mods ([526c917](https://github.com/luciobortoletto/enmcv/commit/526c9174eec207ddbede2e86d0359d54cdd3e8e4))
+* **fabric:** updated mods ([5659f8b](https://github.com/luciobortoletto/enmcv/commit/5659f8bec4d95cdea5038013dfcacd581a1c8814))
+* **fabric:** updated mods ([c3c45ee](https://github.com/luciobortoletto/enmcv/commit/c3c45eefbe6b1d3057f99ddd431ee9afa5577616))
+
 ## [2.5.0](https://github.com/luciobortoletto/enmcv/compare/fabric-v2.4.1...fabric-v2.5.0) (2024-12-21)
 
 
