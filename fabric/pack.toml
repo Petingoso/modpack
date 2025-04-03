@@ -1,16 +1,13 @@
-name = "EnhancedMC Vanilla"
-author = "luciobortoletto"
-version = "2.6.0"
+name = "Fabric"
+author = "Petingoso"
+version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "ad7c0a55cca76c6b0d32847911391d4311961a0a07a4241e3477a204263978e8"
+hash = "09b8fc563c11475d6b9eb1b20d56a2480ddfed36cbeba74d604baf34f23b459f"
 
 [versions]
-fabric = "0.16.9"
-minecraft = "1.21.1"
-
-[options]
-acceptable-game-versions = ["1.21"]
+minecraft = "1.20.1"
+quilt = "0.29.0-beta.3"
