@@ -1,11 +1,12 @@
 # Changelog
 
-## [1.0.1](https://github.com/Petingoso/modpack/compare/fabric-v1.0.0...fabric-v1.0.1) (2025-04-03)
+## [1.0.2](https://github.com/Petingoso/modpack/compare/fabric-v1.0.1...fabric-v1.0.2) (2025-04-04)
 
+### ✨ Additions
+* Added **Sodium**, **Iris Shaders**, and **Lithium** and **Textile Backup**
 
 ### ⛭ Miscellaneous
-
-* **main:** release 1.0.1 ([3f86c12](https://github.com/Petingoso/modpack/commit/3f86c1212380ecdadd525cd133398c20ffccaea9))
+* **main:** release 1.0.2 ([new_commit_hash](https://github.com/Petingoso/modpack/commit/new_commit_hash))
 
 ## Changelog
 
