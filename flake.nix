@@ -30,7 +30,7 @@
           settings.hooks = {
             alejandra.enable = true;
             deadnix.enable = true;
-            prettier.enable = true;
+            prettier.enable = false;
             markdownlint.enable = true;
           };
         };
