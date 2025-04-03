@@ -72,6 +72,7 @@ jobs:
     permissions:
       contents: write
       pull-requests: write
+      issues: write
 
 
     steps:      
