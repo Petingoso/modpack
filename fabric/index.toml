@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "84a4481d68c9012527d6433080abf06416d83e270e5bb925fc07899ad1b45785"
+hash = "33c57172340487e2a4e92d0f46b9a1c08365453730b7a76e27205858e636263f"
 
 [[files]]
 file = "mods/biomes-o-plenty.pw.toml"
@@ -17,11 +17,6 @@ metafile = true
 [[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "21da22765bdcc9f9cd205fe082336e7ca8af3a9668ce857617ed7e3e8aefe2a2"
-metafile = true
-
-[[files]]
-file = "mods/fabric-api.pw.toml"
-hash = "b32e44b08919d3c15ecd715e4ab585c3cc8d8d42cec81403f961dca3b51424b6"
 metafile = true
 
 [[files]]
@@ -47,6 +42,11 @@ metafile = true
 [[files]]
 file = "mods/hephaestus.pw.toml"
 hash = "da53b078e3d222c72a3dc7f065cca1cad9772473a6be401f4e7098c0e7da6456"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "8190bea6b572764f27a16d0e1d4d7262645a37528c54676b2b2456c8cae23783"
 metafile = true
 
 [[files]]
