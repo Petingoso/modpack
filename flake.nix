@@ -31,7 +31,7 @@
             alejandra.enable = true;
             deadnix.enable = true;
             prettier.enable = false;
-            markdownlint.enable = true;
+            markdownlint.enable = false;
           };
         };
         devShells.default = pkgs.mkShell {
