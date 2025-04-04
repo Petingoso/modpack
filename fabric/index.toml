@@ -20,6 +20,11 @@ hash = "21da22765bdcc9f9cd205fe082336e7ca8af3a9668ce857617ed7e3e8aefe2a2"
 metafile = true
 
 [[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "b32e44b08919d3c15ecd715e4ab585c3cc8d8d42cec81403f961dca3b51424b6"
+metafile = true
+
+[[files]]
 file = "mods/fakerlib.pw.toml"
 hash = "881eb79d04ea70ef9d2fbeed4893f2652b2452e88791cf72896c2c324552fb62"
 metafile = true
