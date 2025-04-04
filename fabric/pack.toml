@@ -1,13 +1,13 @@
 name = "Fabric"
 author = "Petingoso"
-version = "1.0.5"
+version = "1.0.6"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "d7ed768826bc192a958d68fe435a11263b8bf95dc3b779fd0e69de69500db96f"
+hash = "700d0d6f17b09766982322f92778dbcbf920c4b22dde38d504c4e319b6a5ba3f"
 
 [versions]
+fabric = "0.16.12"
 minecraft = "1.20.1"
-quilt = "0.29.0-beta.3"
