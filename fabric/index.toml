@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "33c57172340487e2a4e92d0f46b9a1c08365453730b7a76e27205858e636263f"
+hash = "164d69b4e130a19d771642ef01df05e056070d4061825f15e98be3d12fc8de3a"
 
 [[files]]
 file = "mods/biomes-o-plenty.pw.toml"
