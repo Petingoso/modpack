@@ -85,6 +85,11 @@ hash = "ecf8e1df2361e5f1d090f83eee16c449ff1021dfb2da46474a72726406d5d535"
 metafile = true
 
 [[files]]
+file = "mods/sqlite-jdbc.pw.toml"
+hash = "2372062a6b40806a48d3b8c8f957d62b9a41a98471c8d0efa6cace0904671370"
+metafile = true
+
+[[files]]
 file = "mods/terrablender.pw.toml"
 hash = "b3ae602303fd717bff2344bfb89aa427e2b4a1ab5fffdcc25183b22102c492df"
 metafile = true

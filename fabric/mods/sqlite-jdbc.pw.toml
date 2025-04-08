@@ -1,0 +1,13 @@
+name = "SQLite JDBC"
+filename = "sqlite-jdbc-3.41.2.1+20230506-all.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GAUIVqEJ/versions/7foxfVOx/sqlite-jdbc-3.41.2.1%2B20230506-all.jar"
+hash-format = "sha1"
+hash = "1ad5bc55cf1f2dcf4a5667de3c7f54c837d77645"
+
+[update]
+[update.modrinth]
+mod-id = "GAUIVqEJ"
+version = "7foxfVOx"
