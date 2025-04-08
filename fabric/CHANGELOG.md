@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.8](https://github.com/Petingoso/modpack/compare/fabric-v1.0.7...fabric-v1.0.8) (2025-04-08)
+
+
+### ⛭ Miscellaneous
+
+* **main:** release 1.0.8 ([6cfc1c5](https://github.com/Petingoso/modpack/commit/6cfc1c5d59846ceb0a4a829ec3c97e315b42b10f))
+
 ## [1.0.7](https://github.com/Petingoso/modpack/compare/fabric-v1.0.6...fabric-v1.0.7) (2025-04-08)
 
 
