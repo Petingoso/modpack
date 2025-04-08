@@ -95,6 +95,11 @@ hash = "ef7f5219c20d74e97f2b273a3024a630eceafab0e76814c74af401a114c4ecab"
 metafile = true
 
 [[files]]
+file = "mods/whitelistsync2.pw.toml"
+hash = "149583bf46f9ec45709e22d1a147a5ac9721712bd75f24b0c8e5654fb1e2e1f3"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap-fair.pw.toml"
 hash = "b21bfe2965daf0dcb2a988b5be41fc57014aa82a12baca1896e1be5d215bbeee"
 metafile = true
