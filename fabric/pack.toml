@@ -6,7 +6,9 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "972bdd66ed3ba164d573aff67bf8d1ac784b2cbe9d147260a128da5fbc23e8d1"
+# for some reason nixos packwiz complains about hash so setting a random one for some reason fixes it?
+# hash = "a2de85ebe9629568398185b5b9554bcc0c54e322b214d78368485a6074a66279"
+hash = "a2de85ebe9629568398185b5b9554bcc0c54e322b214d78368485a6074a66279"
 
 [versions]
 fabric = "0.16.12"
