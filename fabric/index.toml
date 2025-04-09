@@ -10,6 +10,11 @@ hash = "a2de85ebe9629568398185b5b9554bcc0c54e322b214d78368485a6074a66279"
 metafile = true
 
 [[files]]
+file = "mods/carpet.pw.toml"
+hash = "8c47daba91f742d52311a9df66bae3296246ecba7ca6f1650579e5739d152d0f"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "41a3dc271859b118417946d2fdb2408523563b2f4f49048073672a342fb1aebf"
 metafile = true
@@ -17,6 +22,11 @@ metafile = true
 [[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "21da22765bdcc9f9cd205fe082336e7ca8af3a9668ce857617ed7e3e8aefe2a2"
+metafile = true
+
+[[files]]
+file = "mods/dynmapforge.pw.toml"
+hash = "186a6b68ee9f7595602923295dc3896b00f6370938a323c5dd74c939ba95bed7"
 metafile = true
 
 [[files]]
@@ -35,6 +45,11 @@ hash = "63816a982df44357b787c041f281e3ee3bb86768493e6e043aa38b99d3c2ea57"
 metafile = true
 
 [[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "4f917fdd8207f6d52ab51ed86a23517eaf336bad48963c4bad05d6d233a2c2f5"
+metafile = true
+
+[[files]]
 file = "mods/framework.pw.toml"
 hash = "0673fc42b2d2fe78cc60c8fbc2a51a731a73404bde3a11f91d65bd234d59ff91"
 metafile = true
@@ -42,6 +57,11 @@ metafile = true
 [[files]]
 file = "mods/glitchcore.pw.toml"
 hash = "493ed95320ee3cc9c2def86b9d0971c2ca4bb4215921c2a11208bee77d5dbfb5"
+metafile = true
+
+[[files]]
+file = "mods/goml-reserved.pw.toml"
+hash = "ef9001f23ceaf12c3e136d2f62bc203217ebbdcad5a2ee5cb9672fbf3f2d91cd"
 metafile = true
 
 [[files]]
@@ -75,6 +95,11 @@ hash = "f57dcdf8ec88c3d94caa183d5c1c2a65da89575488d65e8bd292340fe53ad339"
 metafile = true
 
 [[files]]
+file = "mods/plasmo-voice.pw.toml"
+hash = "d449735a01835bdd95dd235eb5bebc343d7d8eb1d41b3db6b6d5e7bf32040833"
+metafile = true
+
+[[files]]
 file = "mods/qsl.pw.toml"
 hash = "7d7d72c26625edfc2f49247bded95192dd98bd0389bcddc82e0b03fa33661afe"
 metafile = true
@@ -105,8 +130,18 @@ hash = "149583bf46f9ec45709e22d1a147a5ac9721712bd75f24b0c8e5654fb1e2e1f3"
 metafile = true
 
 [[files]]
+file = "mods/worldedit.pw.toml"
+hash = "bd1dc13316e2aa9b56c89e7e974057f8da8d6bbfe707ba4210109fc612b782e3"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap-fair.pw.toml"
 hash = "b21bfe2965daf0dcb2a988b5be41fc57014aa82a12baca1896e1be5d215bbeee"
+metafile = true
+
+[[files]]
+file = "mods/yawp.pw.toml"
+hash = "c5c45d29f8175ce932956b31acdd7ee20dabe6362a3ea993a2dafc82159e37b5"
 metafile = true
 
 [[files]]

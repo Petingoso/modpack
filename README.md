@@ -1,3 +1,34 @@
+# Taguscraft modpack
+
+Modpack made for a custom minecraft server.
+List for reference:
+
+Biomes O' Plenty: More biomes  
+Create:For steampunk/fancy stuff  
+Farmer's Delight: For more farming and food  
+Hephaestus: Tinker's Construct (tools and funny parts)  
+Just Enough Items: Crafting recipes  
+Mighty Mail: Allow sending items in mail  
+Plasmo Voice: Proximity VC  
+Xaero's Minimap: Minimap  
+Zenith: Apotheosis (enchantments potions and the sort)
+
+
+Sodium: Optimizer mod  
+Indium: Sodium extras  
+Lithium: Optimizer mod  
+Iris: Shadder Support
+
+Get off my lawn: For claims of player plots  
+Dynmap: For website with world map  
+Carpet: For server side debugging  
+Textile Backup: Automated world backup  
+WhitelistSync: To sync server with an sql database  
+WorldEdit: To edit the world duh  
+Yet Another World Protector: To make spawn grief proof and nopvp
+
+Old Readme:
+___
 <div align="center">
   <img src="https://github.com/jh-devv/mc-modpack-kit/assets/122896463/003f8682-7e4f-4797-bdc8-2610a5d505de" alt="Logo">
 </div>
