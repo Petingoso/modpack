@@ -95,11 +95,6 @@ hash = "f57dcdf8ec88c3d94caa183d5c1c2a65da89575488d65e8bd292340fe53ad339"
 metafile = true
 
 [[files]]
-file = "mods/plasmo-voice.pw.toml"
-hash = "d449735a01835bdd95dd235eb5bebc343d7d8eb1d41b3db6b6d5e7bf32040833"
-metafile = true
-
-[[files]]
 file = "mods/qsl.pw.toml"
 hash = "7d7d72c26625edfc2f49247bded95192dd98bd0389bcddc82e0b03fa33661afe"
 metafile = true
@@ -107,6 +102,11 @@ metafile = true
 [[files]]
 file = "mods/rules4worlds.pw.toml"
 hash = "04233cd09b74292a975a4c66d950af4f70f3e551b1ec26af5657198bfdbe990f"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "3d262d92e183d4e31a3f9b183b0191623fdd9783b09b887290e1d9aacedb3fc3"
 metafile = true
 
 [[files]]
