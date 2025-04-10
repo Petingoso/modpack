@@ -135,6 +135,11 @@ hash = "bd1dc13316e2aa9b56c89e7e974057f8da8d6bbfe707ba4210109fc612b782e3"
 metafile = true
 
 [[files]]
+file = "mods/xaeros-map-server-utils.pw.toml"
+hash = "5896ec1a9b54c561283dc4caedf64292bbc8fea407099909779a3b720e8b1dd4"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap-fair.pw.toml"
 hash = "b21bfe2965daf0dcb2a988b5be41fc57014aa82a12baca1896e1be5d215bbeee"
 metafile = true
