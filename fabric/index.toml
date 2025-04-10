@@ -105,6 +105,11 @@ hash = "7d7d72c26625edfc2f49247bded95192dd98bd0389bcddc82e0b03fa33661afe"
 metafile = true
 
 [[files]]
+file = "mods/rules4worlds.pw.toml"
+hash = "04233cd09b74292a975a4c66d950af4f70f3e551b1ec26af5657198bfdbe990f"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "ecf8e1df2361e5f1d090f83eee16c449ff1021dfb2da46474a72726406d5d535"
 metafile = true
@@ -122,6 +127,11 @@ metafile = true
 [[files]]
 file = "mods/textile_backup.pw.toml"
 hash = "ef7f5219c20d74e97f2b273a3024a630eceafab0e76814c74af401a114c4ecab"
+metafile = true
+
+[[files]]
+file = "mods/warputils.pw.toml"
+hash = "40b82504c7a51eb86d84bab28b396b146e7874b2ca5fd8d29aeb162a59ebb6a7"
 metafile = true
 
 [[files]]
