@@ -15,6 +15,11 @@ hash = "8c47daba91f742d52311a9df66bae3296246ecba7ca6f1650579e5739d152d0f"
 metafile = true
 
 [[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "b2d6595b73bd66167a4d7ace472c54c0eab45f55e1769f4ff7da72ce8b58872a"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "21da22765bdcc9f9cd205fe082336e7ca8af3a9668ce857617ed7e3e8aefe2a2"
 metafile = true
@@ -116,7 +121,7 @@ metafile = true
 
 [[files]]
 file = "mods/textile_backup.pw.toml"
-hash = "ef7f5219c20d74e97f2b273a3024a630eceafab0e76814c74af401a114c4ecab"
+hash = "de89d4ffd14c02db24f737055f1f11b784bcb98e7e826efa4bc2329a962b4ba5"
 metafile = true
 
 [[files]]
