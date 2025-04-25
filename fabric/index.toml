@@ -15,11 +15,6 @@ hash = "8c47daba91f742d52311a9df66bae3296246ecba7ca6f1650579e5739d152d0f"
 metafile = true
 
 [[files]]
-file = "mods/cloth-config.pw.toml"
-hash = "41a3dc271859b118417946d2fdb2408523563b2f4f49048073672a342fb1aebf"
-metafile = true
-
-[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "21da22765bdcc9f9cd205fe082336e7ca8af3a9668ce857617ed7e3e8aefe2a2"
 metafile = true
@@ -92,11 +87,6 @@ metafile = true
 [[files]]
 file = "mods/mighty-mail.pw.toml"
 hash = "f57dcdf8ec88c3d94caa183d5c1c2a65da89575488d65e8bd292340fe53ad339"
-metafile = true
-
-[[files]]
-file = "mods/qsl.pw.toml"
-hash = "7d7d72c26625edfc2f49247bded95192dd98bd0389bcddc82e0b03fa33661afe"
 metafile = true
 
 [[files]]
