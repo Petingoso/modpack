@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "98cea0ae63a0ef2bb95e389c59579dad53491fd0b7b2d48c8a360b1db9c9e243"
+hash = "14a55cceabfff60b413a907ca3e6e5951d64846440e2413e88723bb9a4430f8b"
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
@@ -105,11 +105,6 @@ hash = "99efc9e805ce2888680d3cacb9be65733c6d4a8cfcb77e1976205f758db24346"
 metafile = true
 
 [[files]]
-file = "mods/jei.pw.toml"
-hash = "4b2d106ce00d09612a66ced11538304eedc540267a285976da54da8f2f624eb2"
-metafile = true
-
-[[files]]
 file = "mods/lithium.pw.toml"
 hash = "a08a445002542d96a8481654c3f4b5e2d3c064f77b477aeaa3a1d1c3cd396ca8"
 metafile = true
@@ -117,6 +112,11 @@ metafile = true
 [[files]]
 file = "mods/mighty-mail.pw.toml"
 hash = "f57dcdf8ec88c3d94caa183d5c1c2a65da89575488d65e8bd292340fe53ad339"
+metafile = true
+
+[[files]]
+file = "mods/rei.pw.toml"
+hash = "6799b3e8cc9351dd5ffd130883a227170db1272f099d1077e8e4d2f4592a85ca"
 metafile = true
 
 [[files]]
