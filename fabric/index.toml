@@ -2,7 +2,17 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "8123d81d0f0ac2008139a9c63f432ab89f16fa59dee080de658142a8774a5fd2"
+hash = "98cea0ae63a0ef2bb95e389c59579dad53491fd0b7b2d48c8a360b1db9c9e243"
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "0cbcd58c49decc0ecbccd330fcc8326e3b8769e22e1740e229f09541acf3df7f"
+metafile = true
+
+[[files]]
+file = "mods/bellsandwhistles.pw.toml"
+hash = "e0939ffb6b7b49dde8f936cd83f6f4881238f71bbdf14afe3b22b364b7e8cfbe"
+metafile = true
 
 [[files]]
 file = "mods/biomes-o-plenty.pw.toml"
@@ -20,8 +30,18 @@ hash = "b2d6595b73bd66167a4d7ace472c54c0eab45f55e1769f4ff7da72ce8b58872a"
 metafile = true
 
 [[files]]
+file = "mods/create-deco.pw.toml"
+hash = "0372b9ea1233cf516f205bed50c4014bfb4e806406657b8f803409a71d81d88a"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "21da22765bdcc9f9cd205fe082336e7ca8af3a9668ce857617ed7e3e8aefe2a2"
+metafile = true
+
+[[files]]
+file = "mods/create-goggles.pw.toml"
+hash = "5ce15bdd2918bcd3c7cfab473a1cd35f019128168a93bdcff64198d291d2716b"
 metafile = true
 
 [[files]]
@@ -32,6 +52,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "b32e44b08919d3c15ecd715e4ab585c3cc8d8d42cec81403f961dca3b51424b6"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "9df60ec79ff1f4f0ab79b9e10863b831884a2ba277bf0a6be989d3db9d32373d"
 metafile = true
 
 [[files]]
@@ -102,6 +127,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "3d262d92e183d4e31a3f9b183b0191623fdd9783b09b887290e1d9aacedb3fc3"
+metafile = true
+
+[[files]]
+file = "mods/slice-and-dice.pw.toml"
+hash = "35242355a5725fc5ee4b6e6929f534fdbb32b05e9a7f149f670fcd97eb743079"
 metafile = true
 
 [[files]]
