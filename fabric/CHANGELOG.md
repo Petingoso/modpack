@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/Petingoso/modpack/compare/fabric-v1.2.1...fabric-v1.3.0) (2025-04-25)
+
+
+### ★ Features
+
+* added create-goggles, create-slice and dice, create-deco, bells and whistles and deps ([9fa3b9b](https://github.com/Petingoso/modpack/commit/9fa3b9ba9ca5b04930beed20634a23c8fcf4a47d))
+
 ## [1.2.1](https://github.com/Petingoso/modpack/compare/fabric-v1.2.0...fabric-v1.2.1) (2025-04-25)
 
 
