@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.1](https://github.com/Petingoso/modpack/compare/fabric-v1.3.0...fabric-v1.3.1) (2025-04-25)
+
+
+### ♻ Bug Fixes
+
+* changed from JEI to REI for mod GUI ([ac1925a](https://github.com/Petingoso/modpack/commit/ac1925a372ff787933f1c50bad4125442b227f45))
+
 ## [1.3.0](https://github.com/Petingoso/modpack/compare/fabric-v1.2.1...fabric-v1.3.0) (2025-04-25)
 
 
