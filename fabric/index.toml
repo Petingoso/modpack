@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "14a55cceabfff60b413a907ca3e6e5951d64846440e2413e88723bb9a4430f8b"
+hash = "bd2abe1b2d29bf2a211a09072f1485bd8c02a2d97ad0ffc27e3834aaf7964944"
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
