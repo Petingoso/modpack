@@ -36,6 +36,7 @@ ServerCore: More optimizations
 FerriteCore: Reduces ram usage  
 Concurrent Chunk Management Engine: Chunk loading  
 WarpUtils: adds a warp to spawn  
+Spark: Profiler tool  
 
 Old Readme:
 ___
