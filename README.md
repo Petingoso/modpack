@@ -5,15 +5,18 @@ List for reference:
 
 Biomes O' Plenty: More biomes  
 Create:For steampunk/fancy stuff  
+Create Deco: Themed Decorations  
+Create Goggles: goggles in armour  
+Create Slice & Dice: Farmer's delight integration  
+Create Bells & Whistles: Trains and more blocks  
 Farmer's Delight: For more farming and food  
 Hephaestus: Tinker's Construct (tools and funny parts)  
-Just Enough Items: Crafting recipes  
+Roughly Enough Items: Crafting recipes  
 Mighty Mail: Allow sending items in mail  
 Simple Voice Chat: Proximity VC  
 Xaero's Minimap: Minimap  
 Zenith: Apotheosis (enchantments potions and the sort)
 
-WarpUtils: adds a warp to spawn
 
 
 Sodium: Optimizer mod  
@@ -27,8 +30,12 @@ Carpet: For server side debugging
 Textile Backup: Automated world backup  
 WhitelistSync: To sync server with an sql database  
 WorldEdit: To edit the world duh  
-Yet Another World Protector: To make spawn grief proof and nopvp
-Xaeros Map Server Utils: tweak minimap
+Yet Another World Protector: To make spawn grief proof and nopvp  
+Xaeros Map Server Utils: tweak minimap  
+ServerCore: More optimizations  
+FerriteCore: Reduces ram usage  
+Concurrent Chunk Management Engine: Chunk loading  
+WarpUtils: adds a warp to spawn  
 
 Old Readme:
 ___
