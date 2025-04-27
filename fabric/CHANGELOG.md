@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.2](https://github.com/Petingoso/modpack/compare/fabric-v1.4.1...fabric-v1.4.2) (2025-04-27)
+
+
+### ♻ Bug Fixes
+
+* added a server profiler ([bc8141d](https://github.com/Petingoso/modpack/commit/bc8141dd4f4cdcf5717b1da107f0edb20581ee28))
+
 ## [1.4.1](https://github.com/Petingoso/modpack/compare/fabric-v1.4.0...fabric-v1.4.1) (2025-04-27)
 
 
