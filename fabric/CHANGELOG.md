@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.4.0](https://github.com/Petingoso/modpack/compare/fabric-v1.3.1...fabric-v1.4.0) (2025-04-27)
+
+
+### ★ Features
+
+* Add more performance mods ([1cdcfa5](https://github.com/Petingoso/modpack/commit/1cdcfa5b33ab30086cf67bbb8a4c5913792635a9))
+
+
+### ♻ Bug Fixes
+
+* Update readme ([1cdcfa5](https://github.com/Petingoso/modpack/commit/1cdcfa5b33ab30086cf67bbb8a4c5913792635a9))
+
 ## [1.3.1](https://github.com/Petingoso/modpack/compare/fabric-v1.3.0...fabric-v1.3.1) (2025-04-25)
 
 
