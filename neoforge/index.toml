@@ -36,16 +36,6 @@ hash = "60187311fc010bbf513ed8451ff6417f75b6d82f3fef7cbfb9cc296b098ed636"
 metafile = true
 
 [[files]]
-file = "mods/connector.pw.toml"
-hash = "bd751f1dcb856dcb0bc9e30b44e5a357a86284e5aa28307aa666cd8c0b5d8b8e"
-metafile = true
-
-[[files]]
-file = "mods/continuity.pw.toml"
-hash = "2e0d21e95bd6388dccff37494b4f97d6ed9da30f2e32392db7bca3f87d6dab82"
-metafile = true
-
-[[files]]
 file = "mods/create-central-kitchen.pw.toml"
 hash = "c3c693d6ffe7b0b026c0962921348b9c7a1253d0d17976b2897006942ac4fefb"
 metafile = true
