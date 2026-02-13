@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.5](https://github.com/Petingoso/modpack/compare/neoforge-v1.2.4...neoforge-v1.2.5) (2026-02-13)
+
+
+### ♻ Bug Fixes
+
+* now for real ([cf6b2a9](https://github.com/Petingoso/modpack/commit/cf6b2a9ab716435c5926bcc308cdf1453c5e53a3))
+
 ## [1.2.4](https://github.com/Petingoso/modpack/compare/neoforge-v1.2.3...neoforge-v1.2.4) (2026-02-13)
 
 
