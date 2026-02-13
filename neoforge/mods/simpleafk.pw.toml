@@ -1,0 +1,13 @@
+name = "SimpleAFK"
+filename = "simpleafk-neoforge-1.21.1-1.5.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/bI9lnAFH/versions/N3JeQqUN/simpleafk-neoforge-1.21.1-1.5.1.jar"
+hash-format = "sha1"
+hash = "6d012be1d6548b76f0bfa0e0a2361a37e7bf2711"
+
+[update]
+[update.modrinth]
+mod-id = "bI9lnAFH"
+version = "N3JeQqUN"

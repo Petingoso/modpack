@@ -126,6 +126,11 @@ hash = "f6fa773dd1b32b8aece44619c00e788203304c887200924eb8a9c1ac468230c5"
 metafile = true
 
 [[files]]
+file = "mods/simpleafk.pw.toml"
+hash = "ff2702d098af6ebadd5ca66e796611300183be1d146ff4682cced6c377342cc7"
+metafile = true
+
+[[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "9c83feac282fae88a6e0fb78b1678d9d20128b55806714f28b8f98cc100661fb"
 metafile = true
