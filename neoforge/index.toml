@@ -76,6 +76,41 @@ hash = "18c7dc9365978fd3f7f2c5377ffd05fad0f1a184e22040af0eabb7ab2b3de500"
 metafile = true
 
 [[files]]
+file = "mods/emi-create-schematics.pw.toml"
+hash = "d46531b838b87ac8c76cf59d03991a270e9448dd86483f99c5e4ef895e5824dc"
+metafile = true
+
+[[files]]
+file = "mods/emi-enchanting.pw.toml"
+hash = "d11013c4278db45ca9445ddb5d38e443c84778cb487b1729a74e464a7db9b6d4"
+metafile = true
+
+[[files]]
+file = "mods/emi-loot.pw.toml"
+hash = "537d0d6b7301086fcc79fcddfe512aeb36ffacbf61fadb2f8660c32c8416a4e1"
+metafile = true
+
+[[files]]
+file = "mods/emi-ores.pw.toml"
+hash = "d246011bc332b0c8294f5d1a0eafd0be797c75b0aba1d1a29482b8efba1e149e"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "b4e6928ed36556a4206868f8e00ddf116f52094ce2d06f6a38ba17b57c530b80"
+metafile = true
+
+[[files]]
+file = "mods/emiffect.pw.toml"
+hash = "46e20574128a2a85b91c38e1bffc9d0c0673208cefddc11626f453a2dc4d68fb"
+metafile = true
+
+[[files]]
+file = "mods/emixx.pw.toml"
+hash = "82764d09fdd8b717da34d6964f3e2e84ad2e826dc0d97f172ccf121d935f976d"
+metafile = true
+
+[[files]]
 file = "mods/emotecraft.pw.toml"
 hash = "de2c91ffb1bc8e7f2d245fe084ab4dbc570130e8439ad79e3245b8cb9dcdcf19"
 metafile = true
@@ -83,6 +118,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "b458527f3c9b0164c978c5cb7463c8b835ed8a9ad35bf3dd50086f1f3d3fcbb3"
+metafile = true
+
+[[files]]
+file = "mods/extra-mod-integrations.pw.toml"
+hash = "738e09e02ac4ebbde28453092732df18e7c0caec65e8983e2d8774abdc186cfe"
 metafile = true
 
 [[files]]
@@ -96,6 +136,11 @@ hash = "66cebcf946ddbee0c87ef58f61ab34fba55992e1bdc89c81d71b9b8adb8de3dc"
 metafile = true
 
 [[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "60c383c7fb7f34501196f8d1150380427ad75d46a19c54fe877eae8ab797e5d3"
+metafile = true
+
+[[files]]
 file = "mods/gravestone-mod.pw.toml"
 hash = "911f1d06cf2a82106f38ceb51e2c4e6a0208f796bc9e0ace285b19683af2c19b"
 metafile = true
@@ -106,6 +151,11 @@ hash = "33e11c0430a8565ad0f63f7ef381d7528f4343bdabfa0541ef243d19af41593e"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "c1b7ecd0b42805c3d775149fcdd9c4524682b11bfbf08bc9b50eaff4b06063b6"
+metafile = true
+
+[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "19177487dddc1ead8eb8a17b752c1ecbb43a3231f8c1c700bec9684769ab60aa"
 metafile = true
@@ -113,11 +163,6 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "0b5b0f89c626194cc46848d36b6c9a3013036e539b0b2f36a1603feda02fdf36"
-metafile = true
-
-[[files]]
-file = "mods/rei.pw.toml"
-hash = "cadd2eca0c4866cc428368d8ac9548e76557c1c7249ebe79492601897db1bf8b"
 metafile = true
 
 [[files]]
