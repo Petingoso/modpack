@@ -1,0 +1,13 @@
+name = "Create Goggles"
+filename = "creategoggles-1.21.1-6.1.1-[NEOFORGE].jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/L1RT5SJc/versions/Co24W2FL/creategoggles-1.21.1-6.1.1-%5BNEOFORGE%5D.jar"
+hash-format = "sha1"
+hash = "e0285c31a2d2501439264c33c965409c422cd5b1"
+
+[update]
+[update.modrinth]
+mod-id = "L1RT5SJc"
+version = "Co24W2FL"

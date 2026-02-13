@@ -1,0 +1,13 @@
+name = "Island"
+author = "Petingoso"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "96e2a547e2dc2b6755054436e4b5028879b3c08f89d82b5bdc188066d9da4326"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.219"

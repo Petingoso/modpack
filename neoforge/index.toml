@@ -1,0 +1,146 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "cdd43f3e1c86af622688930330c3be1c5f9443da1ca18342533fc2118268b9c4"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "dfee717d6ef4dd79f5479cd55b38f7abce67b96457b262293a8af83d6b978963"
+metafile = true
+
+[[files]]
+file = "mods/bellsandwhistles.pw.toml"
+hash = "659da6598e1412c48c8e4dbcbd61e7a4edcef7d4e25f9bac08ea7af29b71fed1"
+metafile = true
+
+[[files]]
+file = "mods/c2me-neoforge.pw.toml"
+hash = "2adff6baf18578c6914e3879ec3921dfdb3e4805006f3cac0ee6df2d44c0ed67"
+metafile = true
+
+[[files]]
+file = "mods/carry-on.pw.toml"
+hash = "20a3475a0371a7ac2436711fdf5e6626c53d839034974b2d66055f3b4708b8f2"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "b69749fc2d9741ce50173bf7e1f4239b0859880d0ebf3b37bbfdebbbd9e14075"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "60187311fc010bbf513ed8451ff6417f75b6d82f3fef7cbfb9cc296b098ed636"
+metafile = true
+
+[[files]]
+file = "mods/connector.pw.toml"
+hash = "bd751f1dcb856dcb0bc9e30b44e5a357a86284e5aa28307aa666cd8c0b5d8b8e"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "2e0d21e95bd6388dccff37494b4f97d6ed9da30f2e32392db7bca3f87d6dab82"
+metafile = true
+
+[[files]]
+file = "mods/create-central-kitchen.pw.toml"
+hash = "c3c693d6ffe7b0b026c0962921348b9c7a1253d0d17976b2897006942ac4fefb"
+metafile = true
+
+[[files]]
+file = "mods/create-deco.pw.toml"
+hash = "c41197c34b81e0d713df5068246c26946395034c2e43fb7a4fdcf965455eecba"
+metafile = true
+
+[[files]]
+file = "mods/create-dragons-plus.pw.toml"
+hash = "462bfc44c01e9b1310762e0a7ac97d487f494215a6330a1ecb0ebe4b0ba3b1e7"
+metafile = true
+
+[[files]]
+file = "mods/create-enchantment-industry.pw.toml"
+hash = "94486407ade2272b7d7e1c9e7a7698ff322b54224cc3b2aa7709d50081777273"
+metafile = true
+
+[[files]]
+file = "mods/create-goggles.pw.toml"
+hash = "413d5f52c1b6abdc6f2c4c34a94a75a7ce82b5faa2a773ea2699820138dbb994"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "4a4811da06c2cea139835a12d0db0a3899e8aee5e31814b65f67820e3bfdcf8d"
+metafile = true
+
+[[files]]
+file = "mods/createaddition.pw.toml"
+hash = "ecec1074434b6b46842e74169456cdee5a2090e775a5524c10526d3817abb054"
+metafile = true
+
+[[files]]
+file = "mods/emotecraft.pw.toml"
+hash = "de2c91ffb1bc8e7f2d245fe084ab4dbc570130e8439ad79e3245b8cb9dcdcf19"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "b458527f3c9b0164c978c5cb7463c8b835ed8a9ad35bf3dd50086f1f3d3fcbb3"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "cb9333d09bacd859c921abe7fee5f446f5671f32a35eab585c4f9558195b3b06"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "66cebcf946ddbee0c87ef58f61ab34fba55992e1bdc89c81d71b9b8adb8de3dc"
+metafile = true
+
+[[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "0415889440d061478ff7a4e3c8ec538b2337b52fad4ed59163cd7410f4249846"
+metafile = true
+
+[[files]]
+file = "mods/gravestone-mod.pw.toml"
+hash = "911f1d06cf2a82106f38ceb51e2c4e6a0208f796bc9e0ace285b19683af2c19b"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "33e11c0430a8565ad0f63f7ef381d7528f4343bdabfa0541ef243d19af41593e"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "0b5b0f89c626194cc46848d36b6c9a3013036e539b0b2f36a1603feda02fdf36"
+metafile = true
+
+[[files]]
+file = "mods/rei.pw.toml"
+hash = "cadd2eca0c4866cc428368d8ac9548e76557c1c7249ebe79492601897db1bf8b"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "f6fa773dd1b32b8aece44619c00e788203304c887200924eb8a9c1ac468230c5"
+metafile = true
+
+[[files]]
+file = "mods/slice-and-dice.pw.toml"
+hash = "9c83feac282fae88a6e0fb78b1678d9d20128b55806714f28b8f98cc100661fb"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "5aa5f803860e8bfd8db77317575f66e91c0f826c74ec1a141dbc4587b60950fe"
+metafile = true
+
+[[files]]
+file = "mods/warputils.pw.toml"
+hash = "e44be24afdce2e63a8e2054b75c72f1d22ce259ab3b28469336be5419b728ca7"
+metafile = true
