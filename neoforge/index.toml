@@ -86,11 +86,6 @@ hash = "66cebcf946ddbee0c87ef58f61ab34fba55992e1bdc89c81d71b9b8adb8de3dc"
 metafile = true
 
 [[files]]
-file = "mods/forgified-fabric-api.pw.toml"
-hash = "0415889440d061478ff7a4e3c8ec538b2337b52fad4ed59163cd7410f4249846"
-metafile = true
-
-[[files]]
 file = "mods/gravestone-mod.pw.toml"
 hash = "911f1d06cf2a82106f38ceb51e2c4e6a0208f796bc9e0ace285b19683af2c19b"
 metafile = true
