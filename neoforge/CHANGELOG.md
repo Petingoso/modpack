@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.3.0](https://github.com/Petingoso/modpack/compare/neoforge-v1.2.5...neoforge-v1.3.0) (2026-02-13)
+
+
+### ★ Features
+
+* add steam n rails ([71f2709](https://github.com/Petingoso/modpack/commit/71f2709332ac49e7600bc6f72927a371735a3720))
+
+
+### ♻ Bug Fixes
+
+* idk at this point ([0fa0294](https://github.com/Petingoso/modpack/commit/0fa029486f511ef2525556584934f0daf0dd3424))
+
 ## [1.2.5](https://github.com/Petingoso/modpack/compare/neoforge-v1.2.4...neoforge-v1.2.5) (2026-02-13)
 
 
