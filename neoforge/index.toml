@@ -71,6 +71,11 @@ hash = "ecec1074434b6b46842e74169456cdee5a2090e775a5524c10526d3817abb054"
 metafile = true
 
 [[files]]
+file = "mods/detect-afk.pw.toml"
+hash = "18c7dc9365978fd3f7f2c5377ffd05fad0f1a184e22040af0eabb7ab2b3de500"
+metafile = true
+
+[[files]]
 file = "mods/emotecraft.pw.toml"
 hash = "de2c91ffb1bc8e7f2d245fe084ab4dbc570130e8439ad79e3245b8cb9dcdcf19"
 metafile = true
