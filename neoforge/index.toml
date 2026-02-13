@@ -16,11 +16,6 @@ hash = "659da6598e1412c48c8e4dbcbd61e7a4edcef7d4e25f9bac08ea7af29b71fed1"
 metafile = true
 
 [[files]]
-file = "mods/c2me-neoforge.pw.toml"
-hash = "2adff6baf18578c6914e3879ec3921dfdb3e4805006f3cac0ee6df2d44c0ed67"
-metafile = true
-
-[[files]]
 file = "mods/carry-on.pw.toml"
 hash = "20a3475a0371a7ac2436711fdf5e6626c53d839034974b2d66055f3b4708b8f2"
 metafile = true
