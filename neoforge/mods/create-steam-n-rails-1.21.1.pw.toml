@@ -1,0 +1,13 @@
+name = "Steam 'n' Rails Neoforge"
+filename = "railways-0.1.0+neoforge-mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/L3Jv0QZI/versions/vpLvW4Yz/railways-0.1.0%2Bneoforge-mc1.21.1.jar"
+hash-format = "sha1"
+hash = "6eaa3864182762595ac81c067f37fad3a5b0ae07"
+
+[update]
+[update.modrinth]
+mod-id = "L3Jv0QZI"
+version = "vpLvW4Yz"
