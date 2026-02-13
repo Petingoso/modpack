@@ -106,6 +106,11 @@ hash = "33e11c0430a8565ad0f63f7ef381d7528f4343bdabfa0541ef243d19af41593e"
 metafile = true
 
 [[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "19177487dddc1ead8eb8a17b752c1ecbb43a3231f8c1c700bec9684769ab60aa"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "0b5b0f89c626194cc46848d36b6c9a3013036e539b0b2f36a1603feda02fdf36"
 metafile = true
