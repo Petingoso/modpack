@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.4.0](https://github.com/Petingoso/modpack/compare/neoforge-v1.3.1...neoforge-v1.4.0) (2026-02-13)
+
+
+### ★ Features
+
+* change the inventory thingy ([7d82e10](https://github.com/Petingoso/modpack/commit/7d82e102043f53bc9e7031eb627446525433d6cd))
+* frfr ([283fe62](https://github.com/Petingoso/modpack/commit/283fe626f19a0bb0e879504135a83943d61666eb))
+* stuff ([cdb119c](https://github.com/Petingoso/modpack/commit/cdb119ca4b6556341296920e9367153a99293bf8))
+
 ## [1.3.1](https://github.com/Petingoso/modpack/compare/neoforge-v1.3.0...neoforge-v1.3.1) (2026-02-13)
 
 
