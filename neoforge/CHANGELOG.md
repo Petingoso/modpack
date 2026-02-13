@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.1](https://github.com/Petingoso/modpack/compare/neoforge-v1.3.0...neoforge-v1.3.1) (2026-02-13)
+
+
+### ♻ Bug Fixes
+
+* whoops ([dcdd087](https://github.com/Petingoso/modpack/commit/dcdd0878d22fc790ad2c6b04a8e8bd3b2e537e28))
+
 ## [1.3.0](https://github.com/Petingoso/modpack/compare/neoforge-v1.2.5...neoforge-v1.3.0) (2026-02-13)
 
 
